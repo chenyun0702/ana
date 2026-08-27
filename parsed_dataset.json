@@ -1,0 +1,6324 @@
+{
+  "total_datapoints": 271,
+  "conditions_count": 27,
+  "summary_stats": [
+    {
+      "cond_id": "w10_l10cm_中",
+      "weight_g": 10,
+      "length_cm": 10.0,
+      "speed": "中",
+      "sample_count": 10,
+      "peak_to_peak_y": 3.253,
+      "peak_to_peak_x": 1.0476,
+      "peak_to_peak_z": 0.7521,
+      "rms_y": 1.0273,
+      "std_y": 1.0254,
+      "max_abs_y": 1.8857,
+      "peak_freq_hz": 0.5,
+      "f_tmd_theoretical_hz": 1.58,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 5.0746
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 2.5892
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 2.1377
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 3.2668
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 3.1214
+        }
+      ],
+      "baseline_p2p_y": 7.8,
+      "vibration_reduction_pct": 58.29
+    },
+    {
+      "cond_id": "w10_l10cm_快",
+      "weight_g": 10,
+      "length_cm": 10.0,
+      "speed": "快",
+      "sample_count": 10,
+      "peak_to_peak_y": 2.3155,
+      "peak_to_peak_x": 1.2114,
+      "peak_to_peak_z": 0.924,
+      "rms_y": 0.7591,
+      "std_y": 0.7444,
+      "max_abs_y": 1.1604,
+      "peak_freq_hz": 0.5,
+      "f_tmd_theoretical_hz": 1.58,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 3.542
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 1.9577
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 2.0766
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 2.1885
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 2.1113
+        }
+      ],
+      "baseline_p2p_y": 9.2,
+      "vibration_reduction_pct": 74.83
+    },
+    {
+      "cond_id": "w10_l10cm_慢",
+      "weight_g": 10,
+      "length_cm": 10.0,
+      "speed": "慢",
+      "sample_count": 10,
+      "peak_to_peak_y": 3.7392,
+      "peak_to_peak_x": 1.4345,
+      "peak_to_peak_z": 1.0395,
+      "rms_y": 1.2162,
+      "std_y": 1.16,
+      "max_abs_y": 2.4068,
+      "peak_freq_hz": 2.0,
+      "f_tmd_theoretical_hz": 1.58,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 2.6952
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 4.4034
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 2.7607
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 5.1804
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 3.5135
+        }
+      ],
+      "baseline_p2p_y": 6.5,
+      "vibration_reduction_pct": 42.47
+    },
+    {
+      "cond_id": "w10_l15cm_中",
+      "weight_g": 10,
+      "length_cm": 15.0,
+      "speed": "中",
+      "sample_count": 10,
+      "peak_to_peak_y": 5.4852,
+      "peak_to_peak_x": 0.6447,
+      "peak_to_peak_z": 1.4855,
+      "rms_y": 1.5131,
+      "std_y": 1.4459,
+      "max_abs_y": 3.8547,
+      "peak_freq_hz": 1.5,
+      "f_tmd_theoretical_hz": 1.29,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 2.3306
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 4.514
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 6.638
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 4.8495
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 4.7223
+        }
+      ],
+      "baseline_p2p_y": 7.8,
+      "vibration_reduction_pct": 29.68
+    },
+    {
+      "cond_id": "w10_l15cm_快",
+      "weight_g": 10,
+      "length_cm": 15.0,
+      "speed": "快",
+      "sample_count": 10,
+      "peak_to_peak_y": 6.8041,
+      "peak_to_peak_x": 1.0986,
+      "peak_to_peak_z": 2.1087,
+      "rms_y": 1.8544,
+      "std_y": 1.8543,
+      "max_abs_y": 4.6686,
+      "peak_freq_hz": 1.5,
+      "f_tmd_theoretical_hz": 1.29,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 5.0092
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 0.8858
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 10.2778
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 5.4784
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 4.5584
+        }
+      ],
+      "baseline_p2p_y": 9.2,
+      "vibration_reduction_pct": 26.04
+    },
+    {
+      "cond_id": "w10_l15cm_慢",
+      "weight_g": 10,
+      "length_cm": 15.0,
+      "speed": "慢",
+      "sample_count": 10,
+      "peak_to_peak_y": 1.2518,
+      "peak_to_peak_x": 0.599,
+      "peak_to_peak_z": 1.0879,
+      "rms_y": 0.4522,
+      "std_y": 0.4395,
+      "max_abs_y": 0.865,
+      "peak_freq_hz": 1.0,
+      "f_tmd_theoretical_hz": 1.29,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 0.5717
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 2.8312
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 0.4669
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 0.9998
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 0.438
+        }
+      ],
+      "baseline_p2p_y": 6.5,
+      "vibration_reduction_pct": 80.74
+    },
+    {
+      "cond_id": "w10_l5cm_中",
+      "weight_g": 10,
+      "length_cm": 5.0,
+      "speed": "中",
+      "sample_count": 10,
+      "peak_to_peak_y": 5.5899,
+      "peak_to_peak_x": 1.4425,
+      "peak_to_peak_z": 1.1497,
+      "rms_y": 1.5615,
+      "std_y": 1.5011,
+      "max_abs_y": 3.7687,
+      "peak_freq_hz": 2.0,
+      "f_tmd_theoretical_hz": 2.23,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 3.9167
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 2.9784
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 3.8108
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 7.8876
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 4.8404
+        }
+      ],
+      "baseline_p2p_y": 7.8,
+      "vibration_reduction_pct": 28.33
+    },
+    {
+      "cond_id": "w10_l5cm_快",
+      "weight_g": 10,
+      "length_cm": 5.0,
+      "speed": "快",
+      "sample_count": 10,
+      "peak_to_peak_y": 6.2293,
+      "peak_to_peak_x": 1.2652,
+      "peak_to_peak_z": 1.7246,
+      "rms_y": 1.713,
+      "std_y": 1.6979,
+      "max_abs_y": 4.169,
+      "peak_freq_hz": 2.0,
+      "f_tmd_theoretical_hz": 2.23,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 4.7356
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 3.8392
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 5.2641
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 8.1631
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 5.0259
+        }
+      ],
+      "baseline_p2p_y": 9.2,
+      "vibration_reduction_pct": 32.29
+    },
+    {
+      "cond_id": "w10_l5cm_慢",
+      "weight_g": 10,
+      "length_cm": 5.0,
+      "speed": "慢",
+      "sample_count": 10,
+      "peak_to_peak_y": 3.9729,
+      "peak_to_peak_x": 0.7763,
+      "peak_to_peak_z": 0.7092,
+      "rms_y": 1.3178,
+      "std_y": 1.1589,
+      "max_abs_y": 3.2584,
+      "peak_freq_hz": 0.5,
+      "f_tmd_theoretical_hz": 2.23,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 6.3566
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 1.7978
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 2.0997
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 3.8751
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 2.8608
+        }
+      ],
+      "baseline_p2p_y": 6.5,
+      "vibration_reduction_pct": 38.88
+    },
+    {
+      "cond_id": "w20_l10cm_中",
+      "weight_g": 20,
+      "length_cm": 10.0,
+      "speed": "中",
+      "sample_count": 10,
+      "peak_to_peak_y": 7.7765,
+      "peak_to_peak_x": 1.1121,
+      "peak_to_peak_z": 2.1839,
+      "rms_y": 2.4131,
+      "std_y": 2.4047,
+      "max_abs_y": 4.2952,
+      "peak_freq_hz": 1.5,
+      "f_tmd_theoretical_hz": 1.58,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 0.5977
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 3.6055
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 12.3334
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 10.3485
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 5.7565
+        }
+      ],
+      "baseline_p2p_y": 7.8,
+      "vibration_reduction_pct": 0.3
+    },
+    {
+      "cond_id": "w20_l10cm_快",
+      "weight_g": 20,
+      "length_cm": 10.0,
+      "speed": "快",
+      "sample_count": 10,
+      "peak_to_peak_y": 3.6586,
+      "peak_to_peak_x": 1.327,
+      "peak_to_peak_z": 1.5096,
+      "rms_y": 1.0638,
+      "std_y": 1.0624,
+      "max_abs_y": 2.2913,
+      "peak_freq_hz": 2.0,
+      "f_tmd_theoretical_hz": 1.58,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 1.5827
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 3.8681
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 0.3414
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 5.6153
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 3.8252
+        }
+      ],
+      "baseline_p2p_y": 9.2,
+      "vibration_reduction_pct": 60.23
+    },
+    {
+      "cond_id": "w20_l10cm_慢",
+      "weight_g": 20,
+      "length_cm": 10.0,
+      "speed": "慢",
+      "sample_count": 11,
+      "peak_to_peak_y": 3.9514,
+      "peak_to_peak_x": 1.3431,
+      "peak_to_peak_z": 0.9912,
+      "rms_y": 1.2286,
+      "std_y": 1.2174,
+      "max_abs_y": 2.1248,
+      "peak_freq_hz": 1.36,
+      "f_tmd_theoretical_hz": 1.58,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.45,
+          "amplitude": 1.1183
+        },
+        {
+          "freq": 0.91,
+          "amplitude": 1.8937
+        },
+        {
+          "freq": 1.36,
+          "amplitude": 7.9313
+        },
+        {
+          "freq": 1.82,
+          "amplitude": 4.4569
+        },
+        {
+          "freq": 2.27,
+          "amplitude": 1.4331
+        }
+      ],
+      "baseline_p2p_y": 6.5,
+      "vibration_reduction_pct": 39.21
+    },
+    {
+      "cond_id": "w20_l15cm_中",
+      "weight_g": 20,
+      "length_cm": 15.0,
+      "speed": "中",
+      "sample_count": 10,
+      "peak_to_peak_y": 5.324,
+      "peak_to_peak_x": 0.8623,
+      "peak_to_peak_z": 0.8945,
+      "rms_y": 1.4824,
+      "std_y": 1.4822,
+      "max_abs_y": 3.304,
+      "peak_freq_hz": 2.0,
+      "f_tmd_theoretical_hz": 1.29,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 1.754
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 5.7604
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 3.7607
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 7.4925
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 2.5707
+        }
+      ],
+      "baseline_p2p_y": 7.8,
+      "vibration_reduction_pct": 31.74
+    },
+    {
+      "cond_id": "w20_l15cm_快",
+      "weight_g": 20,
+      "length_cm": 15.0,
+      "speed": "快",
+      "sample_count": 9,
+      "peak_to_peak_y": 4.2872,
+      "peak_to_peak_x": 0.6903,
+      "peak_to_peak_z": 1.2921,
+      "rms_y": 1.5631,
+      "std_y": 1.5372,
+      "max_abs_y": 2.1893,
+      "peak_freq_hz": 0.56,
+      "f_tmd_theoretical_hz": 1.29,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.56,
+          "amplitude": 6.6633
+        },
+        {
+          "freq": 1.11,
+          "amplitude": 3.1609
+        },
+        {
+          "freq": 1.67,
+          "amplitude": 4.3318
+        },
+        {
+          "freq": 2.22,
+          "amplitude": 4.7475
+        }
+      ],
+      "baseline_p2p_y": 9.2,
+      "vibration_reduction_pct": 53.4
+    },
+    {
+      "cond_id": "w20_l15cm_慢",
+      "weight_g": 20,
+      "length_cm": 15.0,
+      "speed": "慢",
+      "sample_count": 11,
+      "peak_to_peak_y": 2.4015,
+      "peak_to_peak_x": 0.6501,
+      "peak_to_peak_z": 1.045,
+      "rms_y": 0.7628,
+      "std_y": 0.6942,
+      "max_abs_y": 1.5768,
+      "peak_freq_hz": 1.82,
+      "f_tmd_theoretical_hz": 1.29,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.45,
+          "amplitude": 1.547
+        },
+        {
+          "freq": 0.91,
+          "amplitude": 1.2562
+        },
+        {
+          "freq": 1.36,
+          "amplitude": 1.7773
+        },
+        {
+          "freq": 1.82,
+          "amplitude": 3.6955
+        },
+        {
+          "freq": 2.27,
+          "amplitude": 2.8931
+        }
+      ],
+      "baseline_p2p_y": 6.5,
+      "vibration_reduction_pct": 63.05
+    },
+    {
+      "cond_id": "w20_l5cm_中",
+      "weight_g": 20,
+      "length_cm": 5.0,
+      "speed": "中",
+      "sample_count": 10,
+      "peak_to_peak_y": 5.5336,
+      "peak_to_peak_x": 1.8857,
+      "peak_to_peak_z": 2.2967,
+      "rms_y": 1.4795,
+      "std_y": 1.4795,
+      "max_abs_y": 3.5619,
+      "peak_freq_hz": 2.0,
+      "f_tmd_theoretical_hz": 2.23,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 0.9883
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 4.5505
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 3.3502
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 8.2232
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 4.2227
+        }
+      ],
+      "baseline_p2p_y": 7.8,
+      "vibration_reduction_pct": 29.06
+    },
+    {
+      "cond_id": "w20_l5cm_快",
+      "weight_g": 20,
+      "length_cm": 5.0,
+      "speed": "快",
+      "sample_count": 9,
+      "peak_to_peak_y": 5.5363,
+      "peak_to_peak_x": 1.6628,
+      "peak_to_peak_z": 1.7809,
+      "rms_y": 1.7787,
+      "std_y": 1.7724,
+      "max_abs_y": 3.1375,
+      "peak_freq_hz": 2.22,
+      "f_tmd_theoretical_hz": 2.23,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.56,
+          "amplitude": 3.778
+        },
+        {
+          "freq": 1.11,
+          "amplitude": 6.1616
+        },
+        {
+          "freq": 1.67,
+          "amplitude": 5.9141
+        },
+        {
+          "freq": 2.22,
+          "amplitude": 6.3254
+        }
+      ],
+      "baseline_p2p_y": 9.2,
+      "vibration_reduction_pct": 39.82
+    },
+    {
+      "cond_id": "w20_l5cm_慢",
+      "weight_g": 20,
+      "length_cm": 5.0,
+      "speed": "慢",
+      "sample_count": 11,
+      "peak_to_peak_y": 8.1822,
+      "peak_to_peak_x": 2.0254,
+      "peak_to_peak_z": 3.4437,
+      "rms_y": 1.9021,
+      "std_y": 1.8836,
+      "max_abs_y": 4.1502,
+      "peak_freq_hz": 1.36,
+      "f_tmd_theoretical_hz": 2.23,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.45,
+          "amplitude": 5.8612
+        },
+        {
+          "freq": 0.91,
+          "amplitude": 6.8303
+        },
+        {
+          "freq": 1.36,
+          "amplitude": 10.1656
+        },
+        {
+          "freq": 1.82,
+          "amplitude": 5.3606
+        },
+        {
+          "freq": 2.27,
+          "amplitude": 1.2483
+        }
+      ],
+      "baseline_p2p_y": 6.5,
+      "vibration_reduction_pct": 0.0
+    },
+    {
+      "cond_id": "w30_l10cm_中",
+      "weight_g": 30,
+      "length_cm": 10.0,
+      "speed": "中",
+      "sample_count": 10,
+      "peak_to_peak_y": 3.9219,
+      "peak_to_peak_x": 1.8938,
+      "peak_to_peak_z": 0.5453,
+      "rms_y": 1.0214,
+      "std_y": 1.0101,
+      "max_abs_y": 2.4418,
+      "peak_freq_hz": 2.0,
+      "f_tmd_theoretical_hz": 1.58,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 1.8747
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 3.3253
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 4.0669
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 4.4433
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 0.5669
+        }
+      ],
+      "baseline_p2p_y": 7.8,
+      "vibration_reduction_pct": 49.72
+    },
+    {
+      "cond_id": "w30_l10cm_快",
+      "weight_g": 30,
+      "length_cm": 10.0,
+      "speed": "快",
+      "sample_count": 10,
+      "peak_to_peak_y": 6.1299,
+      "peak_to_peak_x": 1.8025,
+      "peak_to_peak_z": 0.6339,
+      "rms_y": 1.7949,
+      "std_y": 1.7132,
+      "max_abs_y": 4.6256,
+      "peak_freq_hz": 1.5,
+      "f_tmd_theoretical_hz": 1.58,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 1.2131
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 3.4499
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 9.2419
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 5.7138
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 5.5363
+        }
+      ],
+      "baseline_p2p_y": 9.2,
+      "vibration_reduction_pct": 33.37
+    },
+    {
+      "cond_id": "w30_l10cm_慢",
+      "weight_g": 30,
+      "length_cm": 10.0,
+      "speed": "慢",
+      "sample_count": 10,
+      "peak_to_peak_y": 5.9526,
+      "peak_to_peak_x": 2.3666,
+      "peak_to_peak_z": 1.0503,
+      "rms_y": 1.861,
+      "std_y": 1.8511,
+      "max_abs_y": 3.6908,
+      "peak_freq_hz": 1.0,
+      "f_tmd_theoretical_hz": 1.58,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 3.0571
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 11.1173
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 1.9082
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 4.3662
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 5.6007
+        }
+      ],
+      "baseline_p2p_y": 6.5,
+      "vibration_reduction_pct": 8.42
+    },
+    {
+      "cond_id": "w30_l15cm_中",
+      "weight_g": 30,
+      "length_cm": 15.0,
+      "speed": "中",
+      "sample_count": 10,
+      "peak_to_peak_y": 6.745,
+      "peak_to_peak_x": 1.9126,
+      "peak_to_peak_z": 0.8246,
+      "rms_y": 1.8586,
+      "std_y": 1.8435,
+      "max_abs_y": 4.9426,
+      "peak_freq_hz": 2.0,
+      "f_tmd_theoretical_hz": 1.29,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 2.4918
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 5.581
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 2.6067
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 10.3476
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 6.1163
+        }
+      ],
+      "baseline_p2p_y": 7.8,
+      "vibration_reduction_pct": 13.53
+    },
+    {
+      "cond_id": "w30_l15cm_快",
+      "weight_g": 30,
+      "length_cm": 15.0,
+      "speed": "快",
+      "sample_count": 10,
+      "peak_to_peak_y": 7.7309,
+      "peak_to_peak_x": 1.9743,
+      "peak_to_peak_z": 2.4068,
+      "rms_y": 1.9705,
+      "std_y": 1.9608,
+      "max_abs_y": 5.1145,
+      "peak_freq_hz": 1.5,
+      "f_tmd_theoretical_hz": 1.29,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 5.52
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 1.9249
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 9.3488
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 5.3664
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 9.1492
+        }
+      ],
+      "baseline_p2p_y": 9.2,
+      "vibration_reduction_pct": 15.97
+    },
+    {
+      "cond_id": "w30_l15cm_慢",
+      "weight_g": 30,
+      "length_cm": 15.0,
+      "speed": "慢",
+      "sample_count": 10,
+      "peak_to_peak_y": 3.1348,
+      "peak_to_peak_x": 1.0154,
+      "peak_to_peak_z": 1.1041,
+      "rms_y": 1.0389,
+      "std_y": 1.0327,
+      "max_abs_y": 1.8938,
+      "peak_freq_hz": 2.0,
+      "f_tmd_theoretical_hz": 1.29,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 0.6092
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 4.5951
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 0.2803
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 5.6287
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 0.3948
+        }
+      ],
+      "baseline_p2p_y": 6.5,
+      "vibration_reduction_pct": 51.77
+    },
+    {
+      "cond_id": "w30_l5cm_中",
+      "weight_g": 30,
+      "length_cm": 5.0,
+      "speed": "中",
+      "sample_count": 10,
+      "peak_to_peak_y": 4.1663,
+      "peak_to_peak_x": 2.8366,
+      "peak_to_peak_z": 5.7189,
+      "rms_y": 1.0845,
+      "std_y": 1.0845,
+      "max_abs_y": 2.7587,
+      "peak_freq_hz": 2.0,
+      "f_tmd_theoretical_hz": 2.23,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 1.8709
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 1.9309
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 4.5313
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 4.7987
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 4.0051
+        }
+      ],
+      "baseline_p2p_y": 7.8,
+      "vibration_reduction_pct": 46.59
+    },
+    {
+      "cond_id": "w30_l5cm_快",
+      "weight_g": 30,
+      "length_cm": 5.0,
+      "speed": "快",
+      "sample_count": 10,
+      "peak_to_peak_y": 4.4565,
+      "peak_to_peak_x": 2.0227,
+      "peak_to_peak_z": 2.1839,
+      "rms_y": 1.4298,
+      "std_y": 1.3847,
+      "max_abs_y": 3.1832,
+      "peak_freq_hz": 2.5,
+      "f_tmd_theoretical_hz": 2.23,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 2.7153
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 4.864
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 3.1661
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 3.9004
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 8.8994
+        }
+      ],
+      "baseline_p2p_y": 9.2,
+      "vibration_reduction_pct": 51.56
+    },
+    {
+      "cond_id": "w30_l5cm_慢",
+      "weight_g": 30,
+      "length_cm": 5.0,
+      "speed": "慢",
+      "sample_count": 10,
+      "peak_to_peak_y": 3.116,
+      "peak_to_peak_x": 1.515,
+      "peak_to_peak_z": 1.1175,
+      "rms_y": 0.925,
+      "std_y": 0.8879,
+      "max_abs_y": 1.6359,
+      "peak_freq_hz": 1.5,
+      "f_tmd_theoretical_hz": 2.23,
+      "fft_spectrum": [
+        {
+          "freq": 0.0,
+          "amplitude": 0.0
+        },
+        {
+          "freq": 0.5,
+          "amplitude": 2.6074
+        },
+        {
+          "freq": 1.0,
+          "amplitude": 2.7024
+        },
+        {
+          "freq": 1.5,
+          "amplitude": 3.5891
+        },
+        {
+          "freq": 2.0,
+          "amplitude": 2.8776
+        },
+        {
+          "freq": 2.5,
+          "amplitude": 2.8823
+        }
+      ],
+      "baseline_p2p_y": 6.5,
+      "vibration_reduction_pct": 52.06
+    }
+  ],
+  "conditions": {
+    "w10_l5cm_慢": {
+      "cond_id": "w10_l5cm_慢",
+      "weight_g": 10,
+      "length_cm": 5.0,
+      "speed": "慢",
+      "points": [
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:40:15.262",
+          "g1_x_adc": 2589,
+          "g1_y_adc": 1654,
+          "g1_z_adc": 2301,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4532,
+          "ay_g": -1.0584,
+          "az_g": 0.6796,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:40:15.542",
+          "g1_x_adc": 2514,
+          "g1_y_adc": 835,
+          "g1_z_adc": 2507,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2518,
+          "ay_g": -3.2584,
+          "az_g": 1.233,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:40:15.674",
+          "g1_x_adc": 2384,
+          "g1_y_adc": 2118,
+          "g1_z_adc": 2299,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9026,
+          "ay_g": 0.188,
+          "az_g": 0.6742,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:40:15.947",
+          "g1_x_adc": 2591,
+          "g1_y_adc": 2176,
+          "g1_z_adc": 2253,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4586,
+          "ay_g": 0.3438,
+          "az_g": 0.5507,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:40:16.056",
+          "g1_x_adc": 2662,
+          "g1_y_adc": 2080,
+          "g1_z_adc": 2342,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6493,
+          "ay_g": 0.086,
+          "az_g": 0.7897,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:40:16.231",
+          "g1_x_adc": 2673,
+          "g1_y_adc": 2314,
+          "g1_z_adc": 2243,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6789,
+          "ay_g": 0.7145,
+          "az_g": 0.5238,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:40:16.507",
+          "g1_x_adc": 2637,
+          "g1_y_adc": 2026,
+          "g1_z_adc": 2277,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5822,
+          "ay_g": -0.0591,
+          "az_g": 0.6151,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:40:16.659",
+          "g1_x_adc": 2462,
+          "g1_y_adc": 1920,
+          "g1_z_adc": 2487,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1121,
+          "ay_g": -0.3438,
+          "az_g": 1.1792,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:40:16.862",
+          "g1_x_adc": 2418,
+          "g1_y_adc": 1727,
+          "g1_z_adc": 2314,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9939,
+          "ay_g": -0.8623,
+          "az_g": 0.7145,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:40:17.139",
+          "g1_x_adc": 2448,
+          "g1_y_adc": 1295,
+          "g1_z_adc": 2451,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0745,
+          "ay_g": -2.0227,
+          "az_g": 1.0825,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w10_l5cm_慢",
+        "weight_g": 10,
+        "length_cm": 5.0,
+        "speed": "慢",
+        "sample_count": 10,
+        "peak_to_peak_y": 3.9729,
+        "peak_to_peak_x": 0.7763,
+        "peak_to_peak_z": 0.7092,
+        "rms_y": 1.3178,
+        "std_y": 1.1589,
+        "max_abs_y": 3.2584,
+        "peak_freq_hz": 0.5,
+        "f_tmd_theoretical_hz": 2.23,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 6.3566
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 1.7978
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 2.0997
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 3.8751
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 2.8608
+          }
+        ],
+        "baseline_p2p_y": 6.5,
+        "vibration_reduction_pct": 38.88
+      }
+    },
+    "w10_l10cm_慢": {
+      "cond_id": "w10_l10cm_慢",
+      "weight_g": 10,
+      "length_cm": 10.0,
+      "speed": "慢",
+      "points": [
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:37:51.840",
+          "g1_x_adc": 2941,
+          "g1_y_adc": 2066,
+          "g1_z_adc": 2480,
+          "g2_y_adc": 4095,
+          "ax_g": 2.3988,
+          "ay_g": 0.0484,
+          "az_g": 1.1604,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:37:52.050",
+          "g1_x_adc": 2638,
+          "g1_y_adc": 1266,
+          "g1_z_adc": 2309,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5849,
+          "ay_g": -2.1006,
+          "az_g": 0.7011,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:37:52.242",
+          "g1_x_adc": 2514,
+          "g1_y_adc": 2074,
+          "g1_z_adc": 2355,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2518,
+          "ay_g": 0.0698,
+          "az_g": 0.8247,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:37:52.442",
+          "g1_x_adc": 2442,
+          "g1_y_adc": 2071,
+          "g1_z_adc": 2093,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0584,
+          "ay_g": 0.0618,
+          "az_g": 0.1209,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:37:52.631",
+          "g1_x_adc": 2482,
+          "g1_y_adc": 1899,
+          "g1_z_adc": 2246,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1658,
+          "ay_g": -0.4002,
+          "az_g": 0.5319,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:37:52.842",
+          "g1_x_adc": 2414,
+          "g1_y_adc": 1873,
+          "g1_z_adc": 2167,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9832,
+          "ay_g": -0.4701,
+          "az_g": 0.3197,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:37:53.036",
+          "g1_x_adc": 2491,
+          "g1_y_adc": 1680,
+          "g1_z_adc": 2373,
+          "g2_y_adc": 4095,
+          "ax_g": 1.19,
+          "ay_g": -0.9885,
+          "az_g": 0.873,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:37:53.246",
+          "g1_x_adc": 2511,
+          "g1_y_adc": 2544,
+          "g1_z_adc": 2234,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2437,
+          "ay_g": 1.3324,
+          "az_g": 0.4996,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:37:53.444",
+          "g1_x_adc": 2407,
+          "g1_y_adc": 2495,
+          "g1_z_adc": 2309,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9643,
+          "ay_g": 1.2007,
+          "az_g": 0.7011,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:37:53.648",
+          "g1_x_adc": 2752,
+          "g1_y_adc": 1152,
+          "g1_z_adc": 2304,
+          "g2_y_adc": 4095,
+          "ax_g": 1.8911,
+          "ay_g": -2.4068,
+          "az_g": 0.6877,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w10_l10cm_慢",
+        "weight_g": 10,
+        "length_cm": 10.0,
+        "speed": "慢",
+        "sample_count": 10,
+        "peak_to_peak_y": 3.7392,
+        "peak_to_peak_x": 1.4345,
+        "peak_to_peak_z": 1.0395,
+        "rms_y": 1.2162,
+        "std_y": 1.16,
+        "max_abs_y": 2.4068,
+        "peak_freq_hz": 2.0,
+        "f_tmd_theoretical_hz": 1.58,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 2.6952
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 4.4034
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 2.7607
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 5.1804
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 3.5135
+          }
+        ],
+        "baseline_p2p_y": 6.5,
+        "vibration_reduction_pct": 42.47
+      }
+    },
+    "w10_l15cm_慢": {
+      "cond_id": "w10_l15cm_慢",
+      "weight_g": 10,
+      "length_cm": 15.0,
+      "speed": "慢",
+      "points": [
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:35:23.234",
+          "g1_x_adc": 2576,
+          "g1_y_adc": 2256,
+          "g1_z_adc": 2349,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4183,
+          "ay_g": 0.5587,
+          "az_g": 0.8085,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:35:23.433",
+          "g1_x_adc": 2483,
+          "g1_y_adc": 2370,
+          "g1_z_adc": 2243,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1685,
+          "ay_g": 0.865,
+          "az_g": 0.5238,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:35:23.633",
+          "g1_x_adc": 2608,
+          "g1_y_adc": 1937,
+          "g1_z_adc": 2338,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5043,
+          "ay_g": -0.2982,
+          "az_g": 0.779,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:35:23.851",
+          "g1_x_adc": 2590,
+          "g1_y_adc": 1904,
+          "g1_z_adc": 2322,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4559,
+          "ay_g": -0.3868,
+          "az_g": 0.736,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:35:24.045",
+          "g1_x_adc": 2503,
+          "g1_y_adc": 1946,
+          "g1_z_adc": 2369,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2222,
+          "ay_g": -0.274,
+          "az_g": 0.8623,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:35:24.246",
+          "g1_x_adc": 2639,
+          "g1_y_adc": 2263,
+          "g1_z_adc": 2519,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5875,
+          "ay_g": 0.5775,
+          "az_g": 1.2652,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:35:24.440",
+          "g1_x_adc": 2461,
+          "g1_y_adc": 2229,
+          "g1_z_adc": 2114,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1094,
+          "ay_g": 0.4862,
+          "az_g": 0.1773,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:35:24.645",
+          "g1_x_adc": 2573,
+          "g1_y_adc": 1946,
+          "g1_z_adc": 2238,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4103,
+          "ay_g": -0.274,
+          "az_g": 0.5104,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:35:24.835",
+          "g1_x_adc": 2416,
+          "g1_y_adc": 1989,
+          "g1_z_adc": 2453,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9885,
+          "ay_g": -0.1585,
+          "az_g": 1.0879,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:35:25.030",
+          "g1_x_adc": 2448,
+          "g1_y_adc": 2037,
+          "g1_z_adc": 2373,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0745,
+          "ay_g": -0.0295,
+          "az_g": 0.873,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w10_l15cm_慢",
+        "weight_g": 10,
+        "length_cm": 15.0,
+        "speed": "慢",
+        "sample_count": 10,
+        "peak_to_peak_y": 1.2518,
+        "peak_to_peak_x": 0.599,
+        "peak_to_peak_z": 1.0879,
+        "rms_y": 0.4522,
+        "std_y": 0.4395,
+        "max_abs_y": 0.865,
+        "peak_freq_hz": 1.0,
+        "f_tmd_theoretical_hz": 1.29,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 0.5717
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 2.8312
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 0.4669
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 0.9998
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 0.438
+          }
+        ],
+        "baseline_p2p_y": 6.5,
+        "vibration_reduction_pct": 80.74
+      }
+    },
+    "w10_l5cm_中": {
+      "cond_id": "w10_l5cm_中",
+      "weight_g": 10,
+      "length_cm": 5.0,
+      "speed": "中",
+      "points": [
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:40:42.843",
+          "g1_x_adc": 2806,
+          "g1_y_adc": 1424,
+          "g1_z_adc": 2266,
+          "g2_y_adc": 4095,
+          "ax_g": 2.0361,
+          "ay_g": -1.6762,
+          "az_g": 0.5856,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:40:43.034",
+          "g1_x_adc": 2496,
+          "g1_y_adc": 1783,
+          "g1_z_adc": 2355,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2034,
+          "ay_g": -0.7118,
+          "az_g": 0.8247,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:40:43.252",
+          "g1_x_adc": 2380,
+          "g1_y_adc": 2413,
+          "g1_z_adc": 2518,
+          "g2_y_adc": 4095,
+          "ax_g": 0.8918,
+          "ay_g": 0.9805,
+          "az_g": 1.2625,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:40:43.438",
+          "g1_x_adc": 2825,
+          "g1_y_adc": 645,
+          "g1_z_adc": 2479,
+          "g2_y_adc": 4095,
+          "ax_g": 2.0872,
+          "ay_g": -3.7687,
+          "az_g": 1.1578,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:40:43.639",
+          "g1_x_adc": 2405,
+          "g1_y_adc": 2726,
+          "g1_z_adc": 2090,
+          "g2_y_adc": 4095,
+          "ax_g": 0.959,
+          "ay_g": 1.8212,
+          "az_g": 0.1128,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:40:43.850",
+          "g1_x_adc": 2288,
+          "g1_y_adc": 2076,
+          "g1_z_adc": 2202,
+          "g2_y_adc": 4095,
+          "ax_g": 0.6447,
+          "ay_g": 0.0752,
+          "az_g": 0.4137,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:40:44.048",
+          "g1_x_adc": 2448,
+          "g1_y_adc": 2225,
+          "g1_z_adc": 2227,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0745,
+          "ay_g": 0.4755,
+          "az_g": 0.4808,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:40:44.241",
+          "g1_x_adc": 2679,
+          "g1_y_adc": 2215,
+          "g1_z_adc": 2384,
+          "g2_y_adc": 4095,
+          "ax_g": 1.695,
+          "ay_g": 0.4486,
+          "az_g": 0.9026,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:40:44.455",
+          "g1_x_adc": 2448,
+          "g1_y_adc": 1552,
+          "g1_z_adc": 2411,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0745,
+          "ay_g": -1.3324,
+          "az_g": 0.9751,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:40:44.645",
+          "g1_x_adc": 2583,
+          "g1_y_adc": 1819,
+          "g1_z_adc": 2422,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4371,
+          "ay_g": -0.6151,
+          "az_g": 1.0046,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w10_l5cm_中",
+        "weight_g": 10,
+        "length_cm": 5.0,
+        "speed": "中",
+        "sample_count": 10,
+        "peak_to_peak_y": 5.5899,
+        "peak_to_peak_x": 1.4425,
+        "peak_to_peak_z": 1.1497,
+        "rms_y": 1.5615,
+        "std_y": 1.5011,
+        "max_abs_y": 3.7687,
+        "peak_freq_hz": 2.0,
+        "f_tmd_theoretical_hz": 2.23,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 3.9167
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 2.9784
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 3.8108
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 7.8876
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 4.8404
+          }
+        ],
+        "baseline_p2p_y": 7.8,
+        "vibration_reduction_pct": 28.33
+      }
+    },
+    "w10_l10cm_中": {
+      "cond_id": "w10_l10cm_中",
+      "weight_g": 10,
+      "length_cm": 10.0,
+      "speed": "中",
+      "points": [
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:38:24.048",
+          "g1_x_adc": 2807,
+          "g1_y_adc": 2557,
+          "g1_z_adc": 2278,
+          "g2_y_adc": 4095,
+          "ax_g": 2.0388,
+          "ay_g": 1.3673,
+          "az_g": 0.6178,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:38:24.243",
+          "g1_x_adc": 2477,
+          "g1_y_adc": 2224,
+          "g1_z_adc": 2397,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1524,
+          "ay_g": 0.4728,
+          "az_g": 0.9375,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:38:24.448",
+          "g1_x_adc": 2536,
+          "g1_y_adc": 2315,
+          "g1_z_adc": 2335,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3109,
+          "ay_g": 0.7172,
+          "az_g": 0.7709,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:38:24.639",
+          "g1_x_adc": 2781,
+          "g1_y_adc": 2305,
+          "g1_z_adc": 2150,
+          "g2_y_adc": 4095,
+          "ax_g": 1.969,
+          "ay_g": 0.6904,
+          "az_g": 0.274,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:38:24.848",
+          "g1_x_adc": 2603,
+          "g1_y_adc": 1346,
+          "g1_z_adc": 2386,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4908,
+          "ay_g": -1.8857,
+          "az_g": 0.9079,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:38:25.042",
+          "g1_x_adc": 2669,
+          "g1_y_adc": 1734,
+          "g1_z_adc": 2362,
+          "g2_y_adc": 4093,
+          "ax_g": 1.6681,
+          "ay_g": -0.8435,
+          "az_g": 0.8435,
+          "g2_ay_g": 5.4933
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:38:25.238",
+          "g1_x_adc": 2713,
+          "g1_y_adc": 1568,
+          "g1_z_adc": 2430,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7863,
+          "ay_g": -1.2894,
+          "az_g": 1.0261,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:38:25.444",
+          "g1_x_adc": 2442,
+          "g1_y_adc": 2483,
+          "g1_z_adc": 2303,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0584,
+          "ay_g": 1.1685,
+          "az_g": 0.685,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:38:25.649",
+          "g1_x_adc": 2417,
+          "g1_y_adc": 1990,
+          "g1_z_adc": 2406,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9912,
+          "ay_g": -0.1558,
+          "az_g": 0.9617,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:38:25.845",
+          "g1_x_adc": 2581,
+          "g1_y_adc": 2192,
+          "g1_z_adc": 2338,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4317,
+          "ay_g": 0.3868,
+          "az_g": 0.779,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w10_l10cm_中",
+        "weight_g": 10,
+        "length_cm": 10.0,
+        "speed": "中",
+        "sample_count": 10,
+        "peak_to_peak_y": 3.253,
+        "peak_to_peak_x": 1.0476,
+        "peak_to_peak_z": 0.7521,
+        "rms_y": 1.0273,
+        "std_y": 1.0254,
+        "max_abs_y": 1.8857,
+        "peak_freq_hz": 0.5,
+        "f_tmd_theoretical_hz": 1.58,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 5.0746
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 2.5892
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 2.1377
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 3.2668
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 3.1214
+          }
+        ],
+        "baseline_p2p_y": 7.8,
+        "vibration_reduction_pct": 58.29
+      }
+    },
+    "w10_l15cm_中": {
+      "cond_id": "w10_l15cm_中",
+      "weight_g": 10,
+      "length_cm": 15.0,
+      "speed": "中",
+      "points": [
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:36:04.248",
+          "g1_x_adc": 2617,
+          "g1_y_adc": 1495,
+          "g1_z_adc": 2414,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5284,
+          "ay_g": -1.4855,
+          "az_g": 0.9832,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:36:04.447",
+          "g1_x_adc": 2670,
+          "g1_y_adc": 1727,
+          "g1_z_adc": 2128,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6708,
+          "ay_g": -0.8623,
+          "az_g": 0.2149,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:36:04.637",
+          "g1_x_adc": 2579,
+          "g1_y_adc": 2191,
+          "g1_z_adc": 2220,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4264,
+          "ay_g": 0.3841,
+          "az_g": 0.462,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:36:04.839",
+          "g1_x_adc": 2542,
+          "g1_y_adc": 2278,
+          "g1_z_adc": 2331,
+          "g2_y_adc": 4095,
+          "ax_g": 1.327,
+          "ay_g": 0.6178,
+          "az_g": 0.7602,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:36:05.039",
+          "g1_x_adc": 2583,
+          "g1_y_adc": 613,
+          "g1_z_adc": 2681,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4371,
+          "ay_g": -3.8547,
+          "az_g": 1.7004,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:36:05.247",
+          "g1_x_adc": 2689,
+          "g1_y_adc": 2655,
+          "g1_z_adc": 2153,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7219,
+          "ay_g": 1.6305,
+          "az_g": 0.2821,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:36:05.438",
+          "g1_x_adc": 2517,
+          "g1_y_adc": 2379,
+          "g1_z_adc": 2304,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2598,
+          "ay_g": 0.8891,
+          "az_g": 0.6877,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:36:05.646",
+          "g1_x_adc": 2542,
+          "g1_y_adc": 1872,
+          "g1_z_adc": 2384,
+          "g2_y_adc": 4095,
+          "ax_g": 1.327,
+          "ay_g": -0.4728,
+          "az_g": 0.9026,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:36:05.842",
+          "g1_x_adc": 2711,
+          "g1_y_adc": 1853,
+          "g1_z_adc": 2471,
+          "g2_y_adc": 4095,
+          "ax_g": 1.781,
+          "ay_g": -0.5238,
+          "az_g": 1.1363,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:36:06.031",
+          "g1_x_adc": 2757,
+          "g1_y_adc": 1757,
+          "g1_z_adc": 2294,
+          "g2_y_adc": 4095,
+          "ax_g": 1.9045,
+          "ay_g": -0.7817,
+          "az_g": 0.6608,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w10_l15cm_中",
+        "weight_g": 10,
+        "length_cm": 15.0,
+        "speed": "中",
+        "sample_count": 10,
+        "peak_to_peak_y": 5.4852,
+        "peak_to_peak_x": 0.6447,
+        "peak_to_peak_z": 1.4855,
+        "rms_y": 1.5131,
+        "std_y": 1.4459,
+        "max_abs_y": 3.8547,
+        "peak_freq_hz": 1.5,
+        "f_tmd_theoretical_hz": 1.29,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 2.3306
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 4.514
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 6.638
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 4.8495
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 4.7223
+          }
+        ],
+        "baseline_p2p_y": 7.8,
+        "vibration_reduction_pct": 29.68
+      }
+    },
+    "w10_l5cm_快": {
+      "cond_id": "w10_l5cm_快",
+      "weight_g": 10,
+      "length_cm": 5.0,
+      "speed": "快",
+      "points": [
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:41:09.033",
+          "g1_x_adc": 2634,
+          "g1_y_adc": 2658,
+          "g1_z_adc": 2191,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5741,
+          "ay_g": 1.6386,
+          "az_g": 0.3841,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:41:09.249",
+          "g1_x_adc": 2486,
+          "g1_y_adc": 2253,
+          "g1_z_adc": 2375,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1766,
+          "ay_g": 0.5507,
+          "az_g": 0.8784,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:41:09.445",
+          "g1_x_adc": 2553,
+          "g1_y_adc": 2317,
+          "g1_z_adc": 2288,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3565,
+          "ay_g": 0.7226,
+          "az_g": 0.6447,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:41:09.638",
+          "g1_x_adc": 2423,
+          "g1_y_adc": 2446,
+          "g1_z_adc": 2352,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0073,
+          "ay_g": 1.0691,
+          "az_g": 0.8166,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:41:09.837",
+          "g1_x_adc": 2443,
+          "g1_y_adc": 1746,
+          "g1_z_adc": 2323,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0611,
+          "ay_g": -0.8112,
+          "az_g": 0.7387,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:41:10.043",
+          "g1_x_adc": 2463,
+          "g1_y_adc": 2287,
+          "g1_z_adc": 2224,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1148,
+          "ay_g": 0.642,
+          "az_g": 0.4728,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:41:10.241",
+          "g1_x_adc": 2823,
+          "g1_y_adc": 496,
+          "g1_z_adc": 2446,
+          "g2_y_adc": 4095,
+          "ax_g": 2.0818,
+          "ay_g": -4.169,
+          "az_g": 1.0691,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:41:10.453",
+          "g1_x_adc": 2432,
+          "g1_y_adc": 2815,
+          "g1_z_adc": 2069,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0315,
+          "ay_g": 2.0603,
+          "az_g": 0.0564,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:41:10.656",
+          "g1_x_adc": 2352,
+          "g1_y_adc": 2510,
+          "g1_z_adc": 2648,
+          "g2_y_adc": 4095,
+          "ax_g": 0.8166,
+          "ay_g": 1.241,
+          "az_g": 1.6117,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:41:10.854",
+          "g1_x_adc": 2757,
+          "g1_y_adc": 1797,
+          "g1_z_adc": 2711,
+          "g2_y_adc": 4095,
+          "ax_g": 1.9045,
+          "ay_g": -0.6742,
+          "az_g": 1.781,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w10_l5cm_快",
+        "weight_g": 10,
+        "length_cm": 5.0,
+        "speed": "快",
+        "sample_count": 10,
+        "peak_to_peak_y": 6.2293,
+        "peak_to_peak_x": 1.2652,
+        "peak_to_peak_z": 1.7246,
+        "rms_y": 1.713,
+        "std_y": 1.6979,
+        "max_abs_y": 4.169,
+        "peak_freq_hz": 2.0,
+        "f_tmd_theoretical_hz": 2.23,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 4.7356
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 3.8392
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 5.2641
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 8.1631
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 5.0259
+          }
+        ],
+        "baseline_p2p_y": 9.2,
+        "vibration_reduction_pct": 32.29
+      }
+    },
+    "w10_l10cm_快": {
+      "cond_id": "w10_l10cm_快",
+      "weight_g": 10,
+      "length_cm": 10.0,
+      "speed": "快",
+      "points": [
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:39:01.834",
+          "g1_x_adc": 2835,
+          "g1_y_adc": 2390,
+          "g1_z_adc": 2276,
+          "g2_y_adc": 4095,
+          "ax_g": 2.114,
+          "ay_g": 0.9187,
+          "az_g": 0.6125,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:39:02.037",
+          "g1_x_adc": 2529,
+          "g1_y_adc": 2116,
+          "g1_z_adc": 2327,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2921,
+          "ay_g": 0.1827,
+          "az_g": 0.7495,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:39:02.241",
+          "g1_x_adc": 2702,
+          "g1_y_adc": 2317,
+          "g1_z_adc": 2197,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7568,
+          "ay_g": 0.7226,
+          "az_g": 0.4002,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:39:02.431",
+          "g1_x_adc": 2833,
+          "g1_y_adc": 2192,
+          "g1_z_adc": 2102,
+          "g2_y_adc": 4078,
+          "ax_g": 2.1087,
+          "ay_g": 0.3868,
+          "az_g": 0.1451,
+          "g2_ay_g": 5.453
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:39:02.649",
+          "g1_x_adc": 2608,
+          "g1_y_adc": 1618,
+          "g1_z_adc": 2411,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5043,
+          "ay_g": -1.1551,
+          "az_g": 0.9751,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:39:02.850",
+          "g1_x_adc": 2741,
+          "g1_y_adc": 1778,
+          "g1_z_adc": 2347,
+          "g2_y_adc": 4095,
+          "ax_g": 1.8615,
+          "ay_g": -0.7253,
+          "az_g": 0.8032,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:39:03.049",
+          "g1_x_adc": 2718,
+          "g1_y_adc": 1836,
+          "g1_z_adc": 2446,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7998,
+          "ay_g": -0.5695,
+          "az_g": 1.0691,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:39:03.238",
+          "g1_x_adc": 2384,
+          "g1_y_adc": 2480,
+          "g1_z_adc": 2315,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9026,
+          "ay_g": 1.1604,
+          "az_g": 0.7172,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:39:03.475",
+          "g1_x_adc": 2464,
+          "g1_y_adc": 1962,
+          "g1_z_adc": 2412,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1175,
+          "ay_g": -0.231,
+          "az_g": 0.9778,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:39:03.643",
+          "g1_x_adc": 2629,
+          "g1_y_adc": 2343,
+          "g1_z_adc": 2220,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5607,
+          "ay_g": 0.7924,
+          "az_g": 0.462,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w10_l10cm_快",
+        "weight_g": 10,
+        "length_cm": 10.0,
+        "speed": "快",
+        "sample_count": 10,
+        "peak_to_peak_y": 2.3155,
+        "peak_to_peak_x": 1.2114,
+        "peak_to_peak_z": 0.924,
+        "rms_y": 0.7591,
+        "std_y": 0.7444,
+        "max_abs_y": 1.1604,
+        "peak_freq_hz": 0.5,
+        "f_tmd_theoretical_hz": 1.58,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 3.542
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 1.9577
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 2.0766
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 2.1885
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 2.1113
+          }
+        ],
+        "baseline_p2p_y": 9.2,
+        "vibration_reduction_pct": 74.83
+      }
+    },
+    "w10_l15cm_快": {
+      "cond_id": "w10_l15cm_快",
+      "weight_g": 10,
+      "length_cm": 15.0,
+      "speed": "快",
+      "points": [
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:36:35.041",
+          "g1_x_adc": 2716,
+          "g1_y_adc": 2306,
+          "g1_z_adc": 2339,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7944,
+          "ay_g": 0.693,
+          "az_g": 0.7817,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:36:35.238",
+          "g1_x_adc": 2490,
+          "g1_y_adc": 1563,
+          "g1_z_adc": 2033,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1873,
+          "ay_g": -1.3028,
+          "az_g": -0.0403,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:36:35.441",
+          "g1_x_adc": 2467,
+          "g1_y_adc": 2559,
+          "g1_z_adc": 1947,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1255,
+          "ay_g": 1.3726,
+          "az_g": -0.2713,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:36:35.636",
+          "g1_x_adc": 2498,
+          "g1_y_adc": 2843,
+          "g1_z_adc": 2192,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2088,
+          "ay_g": 2.1355,
+          "az_g": 0.3868,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:36:35.848",
+          "g1_x_adc": 2455,
+          "g1_y_adc": 1919,
+          "g1_z_adc": 2425,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0933,
+          "ay_g": -0.3465,
+          "az_g": 1.0127,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:36:36.051",
+          "g1_x_adc": 2722,
+          "g1_y_adc": 1738,
+          "g1_z_adc": 2224,
+          "g2_y_adc": 4095,
+          "ax_g": 1.8105,
+          "ay_g": -0.8327,
+          "az_g": 0.4728,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:36:36.236",
+          "g1_x_adc": 2710,
+          "g1_y_adc": 2254,
+          "g1_z_adc": 2213,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7783,
+          "ay_g": 0.5534,
+          "az_g": 0.4432,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:36:36.442",
+          "g1_x_adc": 2576,
+          "g1_y_adc": 2262,
+          "g1_z_adc": 2307,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4183,
+          "ay_g": 0.5748,
+          "az_g": 0.6957,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:36:36.630",
+          "g1_x_adc": 2675,
+          "g1_y_adc": 310,
+          "g1_z_adc": 2732,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6842,
+          "ay_g": -4.6686,
+          "az_g": 1.8374,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 10,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:36:36.852",
+          "g1_x_adc": 2864,
+          "g1_y_adc": 2639,
+          "g1_z_adc": 2114,
+          "g2_y_adc": 4095,
+          "ax_g": 2.1919,
+          "ay_g": 1.5875,
+          "az_g": 0.1773,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w10_l15cm_快",
+        "weight_g": 10,
+        "length_cm": 15.0,
+        "speed": "快",
+        "sample_count": 10,
+        "peak_to_peak_y": 6.8041,
+        "peak_to_peak_x": 1.0986,
+        "peak_to_peak_z": 2.1087,
+        "rms_y": 1.8544,
+        "std_y": 1.8543,
+        "max_abs_y": 4.6686,
+        "peak_freq_hz": 1.5,
+        "f_tmd_theoretical_hz": 1.29,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 5.0092
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 0.8858
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 10.2778
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 5.4784
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 4.5584
+          }
+        ],
+        "baseline_p2p_y": 9.2,
+        "vibration_reduction_pct": 26.04
+      }
+    },
+    "w20_l5cm_慢": {
+      "cond_id": "w20_l5cm_慢",
+      "weight_g": 20,
+      "length_cm": 5.0,
+      "speed": "慢",
+      "points": [
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:32:45.828",
+          "g1_x_adc": 2537,
+          "g1_y_adc": 1999,
+          "g1_z_adc": 2320,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3136,
+          "ay_g": -0.1316,
+          "az_g": 0.7306,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:32:46.042",
+          "g1_x_adc": 2576,
+          "g1_y_adc": 1616,
+          "g1_z_adc": 2162,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4183,
+          "ay_g": -1.1604,
+          "az_g": 0.3062,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:32:46.239",
+          "g1_x_adc": 2559,
+          "g1_y_adc": 2265,
+          "g1_z_adc": 2195,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3726,
+          "ay_g": 0.5829,
+          "az_g": 0.3949,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:32:46.441",
+          "g1_x_adc": 3205,
+          "g1_y_adc": 3593,
+          "g1_z_adc": 1232,
+          "g2_y_adc": 4095,
+          "ax_g": 3.1079,
+          "ay_g": 4.1502,
+          "az_g": -2.1919,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:32:46.630",
+          "g1_x_adc": 2451,
+          "g1_y_adc": 2246,
+          "g1_z_adc": 2514,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0825,
+          "ay_g": 0.5319,
+          "az_g": 1.2518,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:32:46.841",
+          "g1_x_adc": 2476,
+          "g1_y_adc": 547,
+          "g1_z_adc": 2382,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1497,
+          "ay_g": -4.032,
+          "az_g": 0.8972,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:32:47.047",
+          "g1_x_adc": 2457,
+          "g1_y_adc": 2131,
+          "g1_z_adc": 2401,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0987,
+          "ay_g": 0.223,
+          "az_g": 0.9482,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:32:47.242",
+          "g1_x_adc": 2541,
+          "g1_y_adc": 2188,
+          "g1_z_adc": 2291,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3243,
+          "ay_g": 0.3761,
+          "az_g": 0.6527,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:32:47.431",
+          "g1_x_adc": 2559,
+          "g1_y_adc": 1499,
+          "g1_z_adc": 2419,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3726,
+          "ay_g": -1.4747,
+          "az_g": 0.9966,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:32:47.643",
+          "g1_x_adc": 2586,
+          "g1_y_adc": 1673,
+          "g1_z_adc": 2365,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4452,
+          "ay_g": -1.0073,
+          "az_g": 0.8515,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "10:33:23.425",
+          "g1_x_adc": 2704,
+          "g1_y_adc": 1685,
+          "g1_z_adc": 2304,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7621,
+          "ay_g": -0.9751,
+          "az_g": 0.6877,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w20_l5cm_慢",
+        "weight_g": 20,
+        "length_cm": 5.0,
+        "speed": "慢",
+        "sample_count": 11,
+        "peak_to_peak_y": 8.1822,
+        "peak_to_peak_x": 2.0254,
+        "peak_to_peak_z": 3.4437,
+        "rms_y": 1.9021,
+        "std_y": 1.8836,
+        "max_abs_y": 4.1502,
+        "peak_freq_hz": 1.36,
+        "f_tmd_theoretical_hz": 2.23,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.45,
+            "amplitude": 5.8612
+          },
+          {
+            "freq": 0.91,
+            "amplitude": 6.8303
+          },
+          {
+            "freq": 1.36,
+            "amplitude": 10.1656
+          },
+          {
+            "freq": 1.82,
+            "amplitude": 5.3606
+          },
+          {
+            "freq": 2.27,
+            "amplitude": 1.2483
+          }
+        ],
+        "baseline_p2p_y": 6.5,
+        "vibration_reduction_pct": 0.0
+      }
+    },
+    "w20_l10cm_慢": {
+      "cond_id": "w20_l10cm_慢",
+      "weight_g": 20,
+      "length_cm": 10.0,
+      "speed": "慢",
+      "points": [
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:30:14.647",
+          "g1_x_adc": 2558,
+          "g1_y_adc": 1970,
+          "g1_z_adc": 2322,
+          "g2_y_adc": 4095,
+          "ax_g": 1.37,
+          "ay_g": -0.2095,
+          "az_g": 0.736,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:30:14.842",
+          "g1_x_adc": 2594,
+          "g1_y_adc": 2021,
+          "g1_z_adc": 2302,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4667,
+          "ay_g": -0.0725,
+          "az_g": 0.6823,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:30:15.045",
+          "g1_x_adc": 2494,
+          "g1_y_adc": 2517,
+          "g1_z_adc": 2284,
+          "g2_y_adc": 4095,
+          "ax_g": 1.198,
+          "ay_g": 1.2598,
+          "az_g": 0.6339,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:30:15.232",
+          "g1_x_adc": 2658,
+          "g1_y_adc": 2288,
+          "g1_z_adc": 2295,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6386,
+          "ay_g": 0.6447,
+          "az_g": 0.6635,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:30:15.445",
+          "g1_x_adc": 2512,
+          "g1_y_adc": 1257,
+          "g1_z_adc": 2332,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2464,
+          "ay_g": -2.1248,
+          "az_g": 0.7629,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:30:15.637",
+          "g1_x_adc": 2938,
+          "g1_y_adc": 2728,
+          "g1_z_adc": 2461,
+          "g2_y_adc": 4095,
+          "ax_g": 2.3907,
+          "ay_g": 1.8266,
+          "az_g": 1.1094,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:30:15.831",
+          "g1_x_adc": 2531,
+          "g1_y_adc": 2661,
+          "g1_z_adc": 2210,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2974,
+          "ay_g": 1.6466,
+          "az_g": 0.4352,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:30:16.046",
+          "g1_x_adc": 2438,
+          "g1_y_adc": 1433,
+          "g1_z_adc": 2156,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0476,
+          "ay_g": -1.652,
+          "az_g": 0.2901,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:30:16.238",
+          "g1_x_adc": 2559,
+          "g1_y_adc": 1813,
+          "g1_z_adc": 2325,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3726,
+          "ay_g": -0.6313,
+          "az_g": 0.7441,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:30:16.432",
+          "g1_x_adc": 2570,
+          "g1_y_adc": 2382,
+          "g1_z_adc": 2213,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4022,
+          "ay_g": 0.8972,
+          "az_g": 0.4432,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "10:30:59.227",
+          "g1_x_adc": 2576,
+          "g1_y_adc": 2137,
+          "g1_z_adc": 2092,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4183,
+          "ay_g": 0.2391,
+          "az_g": 0.1182,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w20_l10cm_慢",
+        "weight_g": 20,
+        "length_cm": 10.0,
+        "speed": "慢",
+        "sample_count": 11,
+        "peak_to_peak_y": 3.9514,
+        "peak_to_peak_x": 1.3431,
+        "peak_to_peak_z": 0.9912,
+        "rms_y": 1.2286,
+        "std_y": 1.2174,
+        "max_abs_y": 2.1248,
+        "peak_freq_hz": 1.36,
+        "f_tmd_theoretical_hz": 1.58,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.45,
+            "amplitude": 1.1183
+          },
+          {
+            "freq": 0.91,
+            "amplitude": 1.8937
+          },
+          {
+            "freq": 1.36,
+            "amplitude": 7.9313
+          },
+          {
+            "freq": 1.82,
+            "amplitude": 4.4569
+          },
+          {
+            "freq": 2.27,
+            "amplitude": 1.4331
+          }
+        ],
+        "baseline_p2p_y": 6.5,
+        "vibration_reduction_pct": 39.21
+      }
+    },
+    "w20_l15cm_慢": {
+      "cond_id": "w20_l15cm_慢",
+      "weight_g": 20,
+      "length_cm": 15.0,
+      "speed": "慢",
+      "points": [
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:27:36.004",
+          "g1_x_adc": 2595,
+          "g1_y_adc": 2355,
+          "g1_z_adc": 2314,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4694,
+          "ay_g": 0.8247,
+          "az_g": 0.7145,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:27:36.211",
+          "g1_x_adc": 2529,
+          "g1_y_adc": 1873,
+          "g1_z_adc": 2370,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2921,
+          "ay_g": -0.4701,
+          "az_g": 0.865,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:27:36.407",
+          "g1_x_adc": 2494,
+          "g1_y_adc": 1511,
+          "g1_z_adc": 2309,
+          "g2_y_adc": 4095,
+          "ax_g": 1.198,
+          "ay_g": -1.4425,
+          "az_g": 0.7011,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:27:36.612",
+          "g1_x_adc": 2526,
+          "g1_y_adc": 1984,
+          "g1_z_adc": 2375,
+          "g2_y_adc": 4095,
+          "ax_g": 1.284,
+          "ay_g": -0.1719,
+          "az_g": 0.8784,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:27:36.826",
+          "g1_x_adc": 2442,
+          "g1_y_adc": 1776,
+          "g1_z_adc": 2338,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0584,
+          "ay_g": -0.7306,
+          "az_g": 0.779,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:27:37.006",
+          "g1_x_adc": 2576,
+          "g1_y_adc": 2115,
+          "g1_z_adc": 2365,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4183,
+          "ay_g": 0.18,
+          "az_g": 0.8515,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:27:37.221",
+          "g1_x_adc": 2442,
+          "g1_y_adc": 2013,
+          "g1_z_adc": 2352,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0584,
+          "ay_g": -0.094,
+          "az_g": 0.8166,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:27:37.421",
+          "g1_x_adc": 2546,
+          "g1_y_adc": 1982,
+          "g1_z_adc": 2277,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3377,
+          "ay_g": -0.1773,
+          "az_g": 0.6151,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:27:37.612",
+          "g1_x_adc": 2532,
+          "g1_y_adc": 1942,
+          "g1_z_adc": 2313,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3001,
+          "ay_g": -0.2847,
+          "az_g": 0.7118,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:27:37.811",
+          "g1_x_adc": 2637,
+          "g1_y_adc": 2221,
+          "g1_z_adc": 2403,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5822,
+          "ay_g": 0.4647,
+          "az_g": 0.9536,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "10:28:40.214",
+          "g1_x_adc": 2395,
+          "g1_y_adc": 1461,
+          "g1_z_adc": 2666,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9321,
+          "ay_g": -1.5768,
+          "az_g": 1.6601,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w20_l15cm_慢",
+        "weight_g": 20,
+        "length_cm": 15.0,
+        "speed": "慢",
+        "sample_count": 11,
+        "peak_to_peak_y": 2.4015,
+        "peak_to_peak_x": 0.6501,
+        "peak_to_peak_z": 1.045,
+        "rms_y": 0.7628,
+        "std_y": 0.6942,
+        "max_abs_y": 1.5768,
+        "peak_freq_hz": 1.82,
+        "f_tmd_theoretical_hz": 1.29,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.45,
+            "amplitude": 1.547
+          },
+          {
+            "freq": 0.91,
+            "amplitude": 1.2562
+          },
+          {
+            "freq": 1.36,
+            "amplitude": 1.7773
+          },
+          {
+            "freq": 1.82,
+            "amplitude": 3.6955
+          },
+          {
+            "freq": 2.27,
+            "amplitude": 2.8931
+          }
+        ],
+        "baseline_p2p_y": 6.5,
+        "vibration_reduction_pct": 63.05
+      }
+    },
+    "w20_l5cm_中": {
+      "cond_id": "w20_l5cm_中",
+      "weight_g": 20,
+      "length_cm": 5.0,
+      "speed": "中",
+      "points": [
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:33:23.629",
+          "g1_x_adc": 2749,
+          "g1_y_adc": 2782,
+          "g1_z_adc": 2256,
+          "g2_y_adc": 4095,
+          "ax_g": 1.883,
+          "ay_g": 1.9717,
+          "az_g": 0.5587,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:33:23.843",
+          "g1_x_adc": 2318,
+          "g1_y_adc": 722,
+          "g1_z_adc": 2064,
+          "g2_y_adc": 4095,
+          "ax_g": 0.7253,
+          "ay_g": -3.5619,
+          "az_g": 0.043,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:33:24.048",
+          "g1_x_adc": 2737,
+          "g1_y_adc": 2545,
+          "g1_z_adc": 2090,
+          "g2_y_adc": 4095,
+          "ax_g": 1.8508,
+          "ay_g": 1.335,
+          "az_g": 0.1128,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:33:24.250",
+          "g1_x_adc": 2471,
+          "g1_y_adc": 2025,
+          "g1_z_adc": 2352,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1363,
+          "ay_g": -0.0618,
+          "az_g": 0.8166,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:33:24.441",
+          "g1_x_adc": 2290,
+          "g1_y_adc": 2299,
+          "g1_z_adc": 2299,
+          "g2_y_adc": 4095,
+          "ax_g": 0.6501,
+          "ay_g": 0.6742,
+          "az_g": 0.6742,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:33:24.635",
+          "g1_x_adc": 2621,
+          "g1_y_adc": 2405,
+          "g1_z_adc": 2686,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5392,
+          "ay_g": 0.959,
+          "az_g": 1.7138,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:33:24.851",
+          "g1_x_adc": 2627,
+          "g1_y_adc": 1591,
+          "g1_z_adc": 2335,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5553,
+          "ay_g": -1.2276,
+          "az_g": 0.7709,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:33:25.046",
+          "g1_x_adc": 2387,
+          "g1_y_adc": 2078,
+          "g1_z_adc": 2422,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9106,
+          "ay_g": 0.0806,
+          "az_g": 1.0046,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:33:25.245",
+          "g1_x_adc": 2992,
+          "g1_y_adc": 1804,
+          "g1_z_adc": 2919,
+          "g2_y_adc": 4095,
+          "ax_g": 2.5358,
+          "ay_g": -0.6554,
+          "az_g": 2.3397,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "10:34:01.843",
+          "g1_x_adc": 2391,
+          "g1_y_adc": 2219,
+          "g1_z_adc": 2067,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9214,
+          "ay_g": 0.4593,
+          "az_g": 0.051,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w20_l5cm_中",
+        "weight_g": 20,
+        "length_cm": 5.0,
+        "speed": "中",
+        "sample_count": 10,
+        "peak_to_peak_y": 5.5336,
+        "peak_to_peak_x": 1.8857,
+        "peak_to_peak_z": 2.2967,
+        "rms_y": 1.4795,
+        "std_y": 1.4795,
+        "max_abs_y": 3.5619,
+        "peak_freq_hz": 2.0,
+        "f_tmd_theoretical_hz": 2.23,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 0.9883
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 4.5505
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 3.3502
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 8.2232
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 4.2227
+          }
+        ],
+        "baseline_p2p_y": 7.8,
+        "vibration_reduction_pct": 29.06
+      }
+    },
+    "w20_l10cm_中": {
+      "cond_id": "w20_l10cm_中",
+      "weight_g": 20,
+      "length_cm": 10.0,
+      "speed": "中",
+      "points": [
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:30:59.425",
+          "g1_x_adc": 2711,
+          "g1_y_adc": 2421,
+          "g1_z_adc": 2349,
+          "g2_y_adc": 4095,
+          "ax_g": 1.781,
+          "ay_g": 1.002,
+          "az_g": 0.8085,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:30:59.629",
+          "g1_x_adc": 2486,
+          "g1_y_adc": 449,
+          "g1_z_adc": 2662,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1766,
+          "ay_g": -4.2952,
+          "az_g": 1.6493,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:30:59.842",
+          "g1_x_adc": 2750,
+          "g1_y_adc": 2490,
+          "g1_z_adc": 2165,
+          "g2_y_adc": 4095,
+          "ax_g": 1.8857,
+          "ay_g": 1.1873,
+          "az_g": 0.3143,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:31:00.028",
+          "g1_x_adc": 2691,
+          "g1_y_adc": 2553,
+          "g1_z_adc": 2318,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7272,
+          "ay_g": 1.3565,
+          "az_g": 0.7253,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:31:00.247",
+          "g1_x_adc": 2336,
+          "g1_y_adc": 1623,
+          "g1_z_adc": 2313,
+          "g2_y_adc": 4095,
+          "ax_g": 0.7736,
+          "ay_g": -1.1416,
+          "az_g": 0.7118,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:31:00.446",
+          "g1_x_adc": 2697,
+          "g1_y_adc": 1823,
+          "g1_z_adc": 2222,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7433,
+          "ay_g": -0.6044,
+          "az_g": 0.4674,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:31:00.638",
+          "g1_x_adc": 2689,
+          "g1_y_adc": 1766,
+          "g1_z_adc": 2273,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7219,
+          "ay_g": -0.7575,
+          "az_g": 0.6044,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:31:00.837",
+          "g1_x_adc": 2466,
+          "g1_y_adc": 2768,
+          "g1_z_adc": 2335,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1228,
+          "ay_g": 1.9341,
+          "az_g": 0.7709,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:31:01.030",
+          "g1_x_adc": 2598,
+          "g1_y_adc": 494,
+          "g1_z_adc": 2448,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4774,
+          "ay_g": -4.1744,
+          "az_g": 1.0745,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "10:31:46.442",
+          "g1_x_adc": 2374,
+          "g1_y_adc": 3344,
+          "g1_z_adc": 1849,
+          "g2_y_adc": 4095,
+          "ax_g": 0.8757,
+          "ay_g": 3.4813,
+          "az_g": -0.5346,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w20_l10cm_中",
+        "weight_g": 20,
+        "length_cm": 10.0,
+        "speed": "中",
+        "sample_count": 10,
+        "peak_to_peak_y": 7.7765,
+        "peak_to_peak_x": 1.1121,
+        "peak_to_peak_z": 2.1839,
+        "rms_y": 2.4131,
+        "std_y": 2.4047,
+        "max_abs_y": 4.2952,
+        "peak_freq_hz": 1.5,
+        "f_tmd_theoretical_hz": 1.58,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 0.5977
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 3.6055
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 12.3334
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 10.3485
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 5.7565
+          }
+        ],
+        "baseline_p2p_y": 7.8,
+        "vibration_reduction_pct": 0.3
+      }
+    },
+    "w20_l15cm_中": {
+      "cond_id": "w20_l15cm_中",
+      "weight_g": 20,
+      "length_cm": 15.0,
+      "speed": "中",
+      "points": [
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:28:40.414",
+          "g1_x_adc": 2599,
+          "g1_y_adc": 818,
+          "g1_z_adc": 2243,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4801,
+          "ay_g": -3.304,
+          "az_g": 0.5238,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:28:40.612",
+          "g1_x_adc": 2679,
+          "g1_y_adc": 2551,
+          "g1_z_adc": 2178,
+          "g2_y_adc": 4095,
+          "ax_g": 1.695,
+          "ay_g": 1.3512,
+          "az_g": 0.3492,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:28:40.812",
+          "g1_x_adc": 2431,
+          "g1_y_adc": 1989,
+          "g1_z_adc": 2397,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0288,
+          "ay_g": -0.1585,
+          "az_g": 0.9375,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:28:41.006",
+          "g1_x_adc": 2395,
+          "g1_y_adc": 2266,
+          "g1_z_adc": 2221,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9321,
+          "ay_g": 0.5856,
+          "az_g": 0.4647,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:28:41.214",
+          "g1_x_adc": 2389,
+          "g1_y_adc": 2800,
+          "g1_z_adc": 2064,
+          "g2_y_adc": 4095,
+          "ax_g": 0.916,
+          "ay_g": 2.02,
+          "az_g": 0.043,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:28:41.419",
+          "g1_x_adc": 2358,
+          "g1_y_adc": 1414,
+          "g1_z_adc": 2295,
+          "g2_y_adc": 4095,
+          "ax_g": 0.8327,
+          "ay_g": -1.7031,
+          "az_g": 0.6635,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:28:41.613",
+          "g1_x_adc": 2502,
+          "g1_y_adc": 1779,
+          "g1_z_adc": 2352,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2195,
+          "ay_g": -0.7226,
+          "az_g": 0.8166,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:28:41.804",
+          "g1_x_adc": 2422,
+          "g1_y_adc": 2062,
+          "g1_z_adc": 2323,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0046,
+          "ay_g": 0.0376,
+          "az_g": 0.7387,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:28:42.015",
+          "g1_x_adc": 2398,
+          "g1_y_adc": 2329,
+          "g1_z_adc": 2176,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9402,
+          "ay_g": 0.7548,
+          "az_g": 0.3438,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "10:29:13.218",
+          "g1_x_adc": 2606,
+          "g1_y_adc": 2379,
+          "g1_z_adc": 2343,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4989,
+          "ay_g": 0.8891,
+          "az_g": 0.7924,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w20_l15cm_中",
+        "weight_g": 20,
+        "length_cm": 15.0,
+        "speed": "中",
+        "sample_count": 10,
+        "peak_to_peak_y": 5.324,
+        "peak_to_peak_x": 0.8623,
+        "peak_to_peak_z": 0.8945,
+        "rms_y": 1.4824,
+        "std_y": 1.4822,
+        "max_abs_y": 3.304,
+        "peak_freq_hz": 2.0,
+        "f_tmd_theoretical_hz": 1.29,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 1.754
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 5.7604
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 3.7607
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 7.4925
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 2.5707
+          }
+        ],
+        "baseline_p2p_y": 7.8,
+        "vibration_reduction_pct": 31.74
+      }
+    },
+    "w20_l5cm_快": {
+      "cond_id": "w20_l5cm_快",
+      "weight_g": 20,
+      "length_cm": 5.0,
+      "speed": "快",
+      "points": [
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:34:02.037",
+          "g1_x_adc": 2507,
+          "g1_y_adc": 2455,
+          "g1_z_adc": 2210,
+          "g2_y_adc": 4095,
+          "ax_g": 1.233,
+          "ay_g": 1.0933,
+          "az_g": 0.4352,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:34:02.230",
+          "g1_x_adc": 2497,
+          "g1_y_adc": 1155,
+          "g1_z_adc": 2320,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2061,
+          "ay_g": -2.3988,
+          "az_g": 0.7306,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:34:02.436",
+          "g1_x_adc": 2499,
+          "g1_y_adc": 2818,
+          "g1_z_adc": 1905,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2115,
+          "ay_g": 2.0684,
+          "az_g": -0.3841,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:34:02.635",
+          "g1_x_adc": 2277,
+          "g1_y_adc": 3216,
+          "g1_z_adc": 1657,
+          "g2_y_adc": 4095,
+          "ax_g": 0.6151,
+          "ay_g": 3.1375,
+          "az_g": -1.0503,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:34:02.843",
+          "g1_x_adc": 2896,
+          "g1_y_adc": 1702,
+          "g1_z_adc": 2315,
+          "g2_y_adc": 4095,
+          "ax_g": 2.2779,
+          "ay_g": -0.9294,
+          "az_g": 0.7172,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:34:03.043",
+          "g1_x_adc": 2663,
+          "g1_y_adc": 1770,
+          "g1_z_adc": 2162,
+          "g2_y_adc": 4095,
+          "ax_g": 1.652,
+          "ay_g": -0.7468,
+          "az_g": 0.3062,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:34:03.234",
+          "g1_x_adc": 2331,
+          "g1_y_adc": 2080,
+          "g1_z_adc": 2090,
+          "g2_y_adc": 4095,
+          "ax_g": 0.7602,
+          "ay_g": 0.086,
+          "az_g": 0.1128,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:34:03.439",
+          "g1_x_adc": 2446,
+          "g1_y_adc": 2487,
+          "g1_z_adc": 2128,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0691,
+          "ay_g": 1.1792,
+          "az_g": 0.2149,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "10:34:03.641",
+          "g1_x_adc": 2640,
+          "g1_y_adc": 1251,
+          "g1_z_adc": 2285,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5902,
+          "ay_g": -2.1409,
+          "az_g": 0.6366,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w20_l5cm_快",
+        "weight_g": 20,
+        "length_cm": 5.0,
+        "speed": "快",
+        "sample_count": 9,
+        "peak_to_peak_y": 5.5363,
+        "peak_to_peak_x": 1.6628,
+        "peak_to_peak_z": 1.7809,
+        "rms_y": 1.7787,
+        "std_y": 1.7724,
+        "max_abs_y": 3.1375,
+        "peak_freq_hz": 2.22,
+        "f_tmd_theoretical_hz": 2.23,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.56,
+            "amplitude": 3.778
+          },
+          {
+            "freq": 1.11,
+            "amplitude": 6.1616
+          },
+          {
+            "freq": 1.67,
+            "amplitude": 5.9141
+          },
+          {
+            "freq": 2.22,
+            "amplitude": 6.3254
+          }
+        ],
+        "baseline_p2p_y": 9.2,
+        "vibration_reduction_pct": 39.82
+      }
+    },
+    "w20_l10cm_快": {
+      "cond_id": "w20_l10cm_快",
+      "weight_g": 20,
+      "length_cm": 10.0,
+      "speed": "快",
+      "points": [
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:31:46.638",
+          "g1_x_adc": 2535,
+          "g1_y_adc": 2063,
+          "g1_z_adc": 2355,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3082,
+          "ay_g": 0.0403,
+          "az_g": 0.8247,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:31:46.835",
+          "g1_x_adc": 2823,
+          "g1_y_adc": 2023,
+          "g1_z_adc": 2663,
+          "g2_y_adc": 4095,
+          "ax_g": 2.0818,
+          "ay_g": -0.0672,
+          "az_g": 1.652,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:31:47.040",
+          "g1_x_adc": 2699,
+          "g1_y_adc": 1989,
+          "g1_z_adc": 2249,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7487,
+          "ay_g": -0.1585,
+          "az_g": 0.5399,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:31:47.227",
+          "g1_x_adc": 2329,
+          "g1_y_adc": 2375,
+          "g1_z_adc": 2398,
+          "g2_y_adc": 4095,
+          "ax_g": 0.7548,
+          "ay_g": 0.8784,
+          "az_g": 0.9402,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:31:47.429",
+          "g1_x_adc": 2669,
+          "g1_y_adc": 1195,
+          "g1_z_adc": 2599,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6681,
+          "ay_g": -2.2913,
+          "az_g": 1.4801,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:31:47.637",
+          "g1_x_adc": 2704,
+          "g1_y_adc": 2375,
+          "g1_z_adc": 2278,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7621,
+          "ay_g": 0.8784,
+          "az_g": 0.6178,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:31:47.829",
+          "g1_x_adc": 2457,
+          "g1_y_adc": 1888,
+          "g1_z_adc": 2283,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0987,
+          "ay_g": -0.4298,
+          "az_g": 0.6313,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:31:48.031",
+          "g1_x_adc": 2450,
+          "g1_y_adc": 2557,
+          "g1_z_adc": 2226,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0799,
+          "ay_g": 1.3673,
+          "az_g": 0.4781,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:31:48.239",
+          "g1_x_adc": 2624,
+          "g1_y_adc": 2291,
+          "g1_z_adc": 2101,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5473,
+          "ay_g": 0.6527,
+          "az_g": 0.1424,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "10:31:48.439",
+          "g1_x_adc": 2544,
+          "g1_y_adc": 1520,
+          "g1_z_adc": 2448,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3324,
+          "ay_g": -1.4183,
+          "az_g": 1.0745,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w20_l10cm_快",
+        "weight_g": 20,
+        "length_cm": 10.0,
+        "speed": "快",
+        "sample_count": 10,
+        "peak_to_peak_y": 3.6586,
+        "peak_to_peak_x": 1.327,
+        "peak_to_peak_z": 1.5096,
+        "rms_y": 1.0638,
+        "std_y": 1.0624,
+        "max_abs_y": 2.2913,
+        "peak_freq_hz": 2.0,
+        "f_tmd_theoretical_hz": 1.58,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 1.5827
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 3.8681
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 0.3414
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 5.6153
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 3.8252
+          }
+        ],
+        "baseline_p2p_y": 9.2,
+        "vibration_reduction_pct": 60.23
+      }
+    },
+    "w20_l15cm_快": {
+      "cond_id": "w20_l15cm_快",
+      "weight_g": 20,
+      "length_cm": 15.0,
+      "speed": "快",
+      "points": [
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:29:13.427",
+          "g1_x_adc": 2461,
+          "g1_y_adc": 1233,
+          "g1_z_adc": 2534,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1094,
+          "ay_g": -2.1893,
+          "az_g": 1.3055,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:29:13.610",
+          "g1_x_adc": 2426,
+          "g1_y_adc": 1697,
+          "g1_z_adc": 2083,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0154,
+          "ay_g": -0.9429,
+          "az_g": 0.094,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:29:13.830",
+          "g1_x_adc": 2461,
+          "g1_y_adc": 1681,
+          "g1_z_adc": 2550,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1094,
+          "ay_g": -0.9858,
+          "az_g": 1.3485,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:29:14.019",
+          "g1_x_adc": 2594,
+          "g1_y_adc": 2829,
+          "g1_z_adc": 2204,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4667,
+          "ay_g": 2.0979,
+          "az_g": 0.419,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:29:14.212",
+          "g1_x_adc": 2428,
+          "g1_y_adc": 1559,
+          "g1_z_adc": 2369,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0208,
+          "ay_g": -1.3136,
+          "az_g": 0.8623,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:29:14.408",
+          "g1_x_adc": 2478,
+          "g1_y_adc": 2666,
+          "g1_z_adc": 2096,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1551,
+          "ay_g": 1.6601,
+          "az_g": 0.1289,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:29:14.621",
+          "g1_x_adc": 2535,
+          "g1_y_adc": 2691,
+          "g1_z_adc": 2069,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3082,
+          "ay_g": 1.7272,
+          "az_g": 0.0564,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:29:14.817",
+          "g1_x_adc": 2537,
+          "g1_y_adc": 1635,
+          "g1_z_adc": 2457,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3136,
+          "ay_g": -1.1094,
+          "az_g": 1.0987,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 20,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "10:29:15.010",
+          "g1_x_adc": 2683,
+          "g1_y_adc": 1491,
+          "g1_z_adc": 2480,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7057,
+          "ay_g": -1.4962,
+          "az_g": 1.1604,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w20_l15cm_快",
+        "weight_g": 20,
+        "length_cm": 15.0,
+        "speed": "快",
+        "sample_count": 9,
+        "peak_to_peak_y": 4.2872,
+        "peak_to_peak_x": 0.6903,
+        "peak_to_peak_z": 1.2921,
+        "rms_y": 1.5631,
+        "std_y": 1.5372,
+        "max_abs_y": 2.1893,
+        "peak_freq_hz": 0.56,
+        "f_tmd_theoretical_hz": 1.29,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.56,
+            "amplitude": 6.6633
+          },
+          {
+            "freq": 1.11,
+            "amplitude": 3.1609
+          },
+          {
+            "freq": 1.67,
+            "amplitude": 4.3318
+          },
+          {
+            "freq": 2.22,
+            "amplitude": 4.7475
+          }
+        ],
+        "baseline_p2p_y": 9.2,
+        "vibration_reduction_pct": 53.4
+      }
+    },
+    "w30_l5cm_慢": {
+      "cond_id": "w30_l5cm_慢",
+      "weight_g": 30,
+      "length_cm": 5.0,
+      "speed": "慢",
+      "points": [
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "09:44:05.157",
+          "g1_x_adc": 2769,
+          "g1_y_adc": 2657,
+          "g1_z_adc": 2507,
+          "g2_y_adc": 4095,
+          "ax_g": 1.9368,
+          "ay_g": 1.6359,
+          "az_g": 1.233,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "09:44:05.375",
+          "g1_x_adc": 2830,
+          "g1_y_adc": 1497,
+          "g1_z_adc": 2832,
+          "g2_y_adc": 4095,
+          "ax_g": 2.1006,
+          "ay_g": -1.4801,
+          "az_g": 2.106,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "09:44:05.565",
+          "g1_x_adc": 2867,
+          "g1_y_adc": 2111,
+          "g1_z_adc": 2436,
+          "g2_y_adc": 4095,
+          "ax_g": 2.2,
+          "ay_g": 0.1692,
+          "az_g": 1.0422,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "09:44:05.761",
+          "g1_x_adc": 2525,
+          "g1_y_adc": 2422,
+          "g1_z_adc": 2428,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2813,
+          "ay_g": 1.0046,
+          "az_g": 1.0208,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "09:44:05.959",
+          "g1_x_adc": 2710,
+          "g1_y_adc": 2554,
+          "g1_z_adc": 2585,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7783,
+          "ay_g": 1.3592,
+          "az_g": 1.4425,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "09:44:06.170",
+          "g1_x_adc": 2753,
+          "g1_y_adc": 2237,
+          "g1_z_adc": 2416,
+          "g2_y_adc": 4095,
+          "ax_g": 1.8938,
+          "ay_g": 0.5077,
+          "az_g": 0.9885,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "09:44:06.360",
+          "g1_x_adc": 2516,
+          "g1_y_adc": 2119,
+          "g1_z_adc": 2449,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2571,
+          "ay_g": 0.1907,
+          "az_g": 1.0772,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "09:44:06.556",
+          "g1_x_adc": 2890,
+          "g1_y_adc": 2103,
+          "g1_z_adc": 2638,
+          "g2_y_adc": 4095,
+          "ax_g": 2.2618,
+          "ay_g": 0.1477,
+          "az_g": 1.5849,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "09:44:06.777",
+          "g1_x_adc": 2762,
+          "g1_y_adc": 1818,
+          "g1_z_adc": 2499,
+          "g2_y_adc": 4095,
+          "ax_g": 1.9179,
+          "ay_g": -0.6178,
+          "az_g": 1.2115,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "慢",
+          "time": "09:44:06.966",
+          "g1_x_adc": 2326,
+          "g1_y_adc": 1927,
+          "g1_z_adc": 2483,
+          "g2_y_adc": 4095,
+          "ax_g": 0.7468,
+          "ay_g": -0.325,
+          "az_g": 1.1685,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w30_l5cm_慢",
+        "weight_g": 30,
+        "length_cm": 5.0,
+        "speed": "慢",
+        "sample_count": 10,
+        "peak_to_peak_y": 3.116,
+        "peak_to_peak_x": 1.515,
+        "peak_to_peak_z": 1.1175,
+        "rms_y": 0.925,
+        "std_y": 0.8879,
+        "max_abs_y": 1.6359,
+        "peak_freq_hz": 1.5,
+        "f_tmd_theoretical_hz": 2.23,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 2.6074
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 2.7024
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 3.5891
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 2.8776
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 2.8823
+          }
+        ],
+        "baseline_p2p_y": 6.5,
+        "vibration_reduction_pct": 52.06
+      }
+    },
+    "w30_l10cm_慢": {
+      "cond_id": "w30_l10cm_慢",
+      "weight_g": 30,
+      "length_cm": 10.0,
+      "speed": "慢",
+      "points": [
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "09:41:40.956",
+          "g1_x_adc": 2643,
+          "g1_y_adc": 2368,
+          "g1_z_adc": 2281,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5983,
+          "ay_g": 0.8596,
+          "az_g": 0.6259,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "09:41:41.158",
+          "g1_x_adc": 2719,
+          "g1_y_adc": 2688,
+          "g1_z_adc": 2229,
+          "g2_y_adc": 4095,
+          "ax_g": 1.8024,
+          "ay_g": 1.7192,
+          "az_g": 0.4862,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "09:41:41.361",
+          "g1_x_adc": 2477,
+          "g1_y_adc": 3422,
+          "g1_z_adc": 2188,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1524,
+          "ay_g": 3.6908,
+          "az_g": 0.3761,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "09:41:41.558",
+          "g1_x_adc": 2256,
+          "g1_y_adc": 1206,
+          "g1_z_adc": 2261,
+          "g2_y_adc": 4095,
+          "ax_g": 0.5587,
+          "ay_g": -2.2618,
+          "az_g": 0.5722,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "09:41:41.762",
+          "g1_x_adc": 2485,
+          "g1_y_adc": 1573,
+          "g1_z_adc": 2382,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1739,
+          "ay_g": -1.2759,
+          "az_g": 0.8972,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "09:41:41.987",
+          "g1_x_adc": 2333,
+          "g1_y_adc": 1725,
+          "g1_z_adc": 2546,
+          "g2_y_adc": 4095,
+          "ax_g": 0.7656,
+          "ay_g": -0.8676,
+          "az_g": 1.3377,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "09:41:42.153",
+          "g1_x_adc": 2047,
+          "g1_y_adc": 2847,
+          "g1_z_adc": 2319,
+          "g2_y_adc": 4095,
+          "ax_g": -0.0027,
+          "ay_g": 2.1463,
+          "az_g": 0.728,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "09:41:42.355",
+          "g1_x_adc": 2683,
+          "g1_y_adc": 2373,
+          "g1_z_adc": 2579,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7057,
+          "ay_g": 0.873,
+          "az_g": 1.4264,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "09:41:42.562",
+          "g1_x_adc": 2442,
+          "g1_y_adc": 1430,
+          "g1_z_adc": 2419,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0584,
+          "ay_g": -1.6601,
+          "az_g": 0.9966,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "慢",
+          "time": "09:41:42.755",
+          "g1_x_adc": 2928,
+          "g1_y_adc": 1563,
+          "g1_z_adc": 2311,
+          "g2_y_adc": 4095,
+          "ax_g": 2.3639,
+          "ay_g": -1.3028,
+          "az_g": 0.7065,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w30_l10cm_慢",
+        "weight_g": 30,
+        "length_cm": 10.0,
+        "speed": "慢",
+        "sample_count": 10,
+        "peak_to_peak_y": 5.9526,
+        "peak_to_peak_x": 2.3666,
+        "peak_to_peak_z": 1.0503,
+        "rms_y": 1.861,
+        "std_y": 1.8511,
+        "max_abs_y": 3.6908,
+        "peak_freq_hz": 1.0,
+        "f_tmd_theoretical_hz": 1.58,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 3.0571
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 11.1173
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 1.9082
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 4.3662
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 5.6007
+          }
+        ],
+        "baseline_p2p_y": 6.5,
+        "vibration_reduction_pct": 8.42
+      }
+    },
+    "w30_l15cm_慢": {
+      "cond_id": "w30_l15cm_慢",
+      "weight_g": 30,
+      "length_cm": 15.0,
+      "speed": "慢",
+      "points": [
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "09:38:59.753",
+          "g1_x_adc": 2661,
+          "g1_y_adc": 2075,
+          "g1_z_adc": 2443,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6466,
+          "ay_g": 0.0725,
+          "az_g": 1.0611,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "09:38:59.962",
+          "g1_x_adc": 2611,
+          "g1_y_adc": 2510,
+          "g1_z_adc": 2096,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5123,
+          "ay_g": 1.241,
+          "az_g": 0.1289,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "09:39:00.149",
+          "g1_x_adc": 2607,
+          "g1_y_adc": 2238,
+          "g1_z_adc": 2381,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5016,
+          "ay_g": 0.5104,
+          "az_g": 0.8945,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "09:39:00.351",
+          "g1_x_adc": 2417,
+          "g1_y_adc": 1393,
+          "g1_z_adc": 2466,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9912,
+          "ay_g": -1.7595,
+          "az_g": 1.1228,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "09:39:00.564",
+          "g1_x_adc": 2672,
+          "g1_y_adc": 2369,
+          "g1_z_adc": 2448,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6762,
+          "ay_g": 0.8623,
+          "az_g": 1.0745,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "09:39:00.746",
+          "g1_x_adc": 2592,
+          "g1_y_adc": 2055,
+          "g1_z_adc": 2427,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4613,
+          "ay_g": 0.0188,
+          "az_g": 1.0181,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "09:39:00.950",
+          "g1_x_adc": 2795,
+          "g1_y_adc": 2352,
+          "g1_z_adc": 2507,
+          "g2_y_adc": 4095,
+          "ax_g": 2.0066,
+          "ay_g": 0.8166,
+          "az_g": 1.233,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "09:39:01.162",
+          "g1_x_adc": 2655,
+          "g1_y_adc": 2201,
+          "g1_z_adc": 2443,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6305,
+          "ay_g": 0.411,
+          "az_g": 1.0611,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "09:39:01.359",
+          "g1_x_adc": 2433,
+          "g1_y_adc": 1343,
+          "g1_z_adc": 2422,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0342,
+          "ay_g": -1.8938,
+          "az_g": 1.0046,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "慢",
+          "time": "09:39:01.559",
+          "g1_x_adc": 2669,
+          "g1_y_adc": 2365,
+          "g1_z_adc": 2414,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6681,
+          "ay_g": 0.8515,
+          "az_g": 0.9832,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w30_l15cm_慢",
+        "weight_g": 30,
+        "length_cm": 15.0,
+        "speed": "慢",
+        "sample_count": 10,
+        "peak_to_peak_y": 3.1348,
+        "peak_to_peak_x": 1.0154,
+        "peak_to_peak_z": 1.1041,
+        "rms_y": 1.0389,
+        "std_y": 1.0327,
+        "max_abs_y": 1.8938,
+        "peak_freq_hz": 2.0,
+        "f_tmd_theoretical_hz": 1.29,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 0.6092
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 4.5951
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 0.2803
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 5.6287
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 0.3948
+          }
+        ],
+        "baseline_p2p_y": 6.5,
+        "vibration_reduction_pct": 51.77
+      }
+    },
+    "w30_l5cm_中": {
+      "cond_id": "w30_l5cm_中",
+      "weight_g": 30,
+      "length_cm": 5.0,
+      "speed": "中",
+      "points": [
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "09:45:09.163",
+          "g1_x_adc": 2527,
+          "g1_y_adc": 2160,
+          "g1_z_adc": 2320,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2867,
+          "ay_g": 0.3009,
+          "az_g": 0.7306,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "09:45:09.351",
+          "g1_x_adc": 2101,
+          "g1_y_adc": 2250,
+          "g1_z_adc": 1929,
+          "g2_y_adc": 4095,
+          "ax_g": 0.1424,
+          "ay_g": 0.5426,
+          "az_g": -0.3197,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "09:45:09.564",
+          "g1_x_adc": 1877,
+          "g1_y_adc": 1021,
+          "g1_z_adc": 2667,
+          "g2_y_adc": 4095,
+          "ax_g": -0.4593,
+          "ay_g": -2.7587,
+          "az_g": 1.6628,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "09:45:09.770",
+          "g1_x_adc": 2672,
+          "g1_y_adc": 2572,
+          "g1_z_adc": 2307,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6762,
+          "ay_g": 1.4076,
+          "az_g": 0.6957,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "09:45:09.962",
+          "g1_x_adc": 2533,
+          "g1_y_adc": 1968,
+          "g1_z_adc": 2211,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3028,
+          "ay_g": -0.2149,
+          "az_g": 0.4379,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "09:45:10.152",
+          "g1_x_adc": 2181,
+          "g1_y_adc": 1914,
+          "g1_z_adc": 2606,
+          "g2_y_adc": 4095,
+          "ax_g": 0.3573,
+          "ay_g": -0.36,
+          "az_g": 1.4989,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "09:45:10.364",
+          "g1_x_adc": 2837,
+          "g1_y_adc": 2473,
+          "g1_z_adc": 1330,
+          "g2_y_adc": 4095,
+          "ax_g": 2.1194,
+          "ay_g": 1.1416,
+          "az_g": -1.9287,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "09:45:10.557",
+          "g1_x_adc": 2304,
+          "g1_y_adc": 2097,
+          "g1_z_adc": 2485,
+          "g2_y_adc": 4095,
+          "ax_g": 0.6877,
+          "ay_g": 0.1316,
+          "az_g": 1.1739,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "09:45:10.763",
+          "g1_x_adc": 1781,
+          "g1_y_adc": 1887,
+          "g1_z_adc": 3459,
+          "g2_y_adc": 4095,
+          "ax_g": -0.7172,
+          "ay_g": -0.4325,
+          "az_g": 3.7902,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "中",
+          "time": "09:45:10.958",
+          "g1_x_adc": 2415,
+          "g1_y_adc": 2167,
+          "g1_z_adc": 2544,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9858,
+          "ay_g": 0.3197,
+          "az_g": 1.3324,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w30_l5cm_中",
+        "weight_g": 30,
+        "length_cm": 5.0,
+        "speed": "中",
+        "sample_count": 10,
+        "peak_to_peak_y": 4.1663,
+        "peak_to_peak_x": 2.8366,
+        "peak_to_peak_z": 5.7189,
+        "rms_y": 1.0845,
+        "std_y": 1.0845,
+        "max_abs_y": 2.7587,
+        "peak_freq_hz": 2.0,
+        "f_tmd_theoretical_hz": 2.23,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 1.8709
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 1.9309
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 4.5313
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 4.7987
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 4.0051
+          }
+        ],
+        "baseline_p2p_y": 7.8,
+        "vibration_reduction_pct": 46.59
+      }
+    },
+    "w30_l10cm_中": {
+      "cond_id": "w30_l10cm_中",
+      "weight_g": 30,
+      "length_cm": 10.0,
+      "speed": "中",
+      "points": [
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "09:42:31.956",
+          "g1_x_adc": 2409,
+          "g1_y_adc": 2129,
+          "g1_z_adc": 2383,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9697,
+          "ay_g": 0.2176,
+          "az_g": 0.8999,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "09:42:32.148",
+          "g1_x_adc": 2655,
+          "g1_y_adc": 2224,
+          "g1_z_adc": 2409,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6305,
+          "ay_g": 0.4728,
+          "az_g": 0.9697,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "09:42:32.355",
+          "g1_x_adc": 2651,
+          "g1_y_adc": 1919,
+          "g1_z_adc": 2512,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6198,
+          "ay_g": -0.3465,
+          "az_g": 1.2464,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "09:42:32.553",
+          "g1_x_adc": 2519,
+          "g1_y_adc": 2274,
+          "g1_z_adc": 2309,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2652,
+          "ay_g": 0.6071,
+          "az_g": 0.7011,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "09:42:32.759",
+          "g1_x_adc": 2466,
+          "g1_y_adc": 1899,
+          "g1_z_adc": 2351,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1228,
+          "ay_g": -0.4002,
+          "az_g": 0.8139,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "09:42:32.955",
+          "g1_x_adc": 2597,
+          "g1_y_adc": 2180,
+          "g1_z_adc": 2386,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4747,
+          "ay_g": 0.3546,
+          "az_g": 0.9079,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "09:42:33.191",
+          "g1_x_adc": 3055,
+          "g1_y_adc": 2354,
+          "g1_z_adc": 2324,
+          "g2_y_adc": 4095,
+          "ax_g": 2.705,
+          "ay_g": 0.822,
+          "az_g": 0.7414,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "09:42:33.369",
+          "g1_x_adc": 2350,
+          "g1_y_adc": 1139,
+          "g1_z_adc": 2448,
+          "g2_y_adc": 4095,
+          "ax_g": 0.8112,
+          "ay_g": -2.4418,
+          "az_g": 1.0745,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "09:42:33.555",
+          "g1_x_adc": 2667,
+          "g1_y_adc": 2326,
+          "g1_z_adc": 2379,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6628,
+          "ay_g": 0.7468,
+          "az_g": 0.8891,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "中",
+          "time": "09:42:33.762",
+          "g1_x_adc": 2514,
+          "g1_y_adc": 2599,
+          "g1_z_adc": 2431,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2518,
+          "ay_g": 1.4801,
+          "az_g": 1.0288,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w30_l10cm_中",
+        "weight_g": 30,
+        "length_cm": 10.0,
+        "speed": "中",
+        "sample_count": 10,
+        "peak_to_peak_y": 3.9219,
+        "peak_to_peak_x": 1.8938,
+        "peak_to_peak_z": 0.5453,
+        "rms_y": 1.0214,
+        "std_y": 1.0101,
+        "max_abs_y": 2.4418,
+        "peak_freq_hz": 2.0,
+        "f_tmd_theoretical_hz": 1.58,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 1.8747
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 3.3253
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 4.0669
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 4.4433
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 0.5669
+          }
+        ],
+        "baseline_p2p_y": 7.8,
+        "vibration_reduction_pct": 49.72
+      }
+    },
+    "w30_l15cm_中": {
+      "cond_id": "w30_l15cm_中",
+      "weight_g": 30,
+      "length_cm": 15.0,
+      "speed": "中",
+      "points": [
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "09:39:56.166",
+          "g1_x_adc": 2277,
+          "g1_y_adc": 1901,
+          "g1_z_adc": 2554,
+          "g2_y_adc": 4095,
+          "ax_g": 0.6151,
+          "ay_g": -0.3949,
+          "az_g": 1.3592,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "09:39:56.352",
+          "g1_x_adc": 2752,
+          "g1_y_adc": 2719,
+          "g1_z_adc": 2342,
+          "g2_y_adc": 4095,
+          "ax_g": 1.8911,
+          "ay_g": 1.8024,
+          "az_g": 0.7897,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "09:39:56.552",
+          "g1_x_adc": 2416,
+          "g1_y_adc": 208,
+          "g1_z_adc": 2247,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9885,
+          "ay_g": -4.9426,
+          "az_g": 0.5346,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "09:39:56.749",
+          "g1_x_adc": 2705,
+          "g1_y_adc": 2480,
+          "g1_z_adc": 2432,
+          "g2_y_adc": 4095,
+          "ax_g": 1.7648,
+          "ay_g": 1.1604,
+          "az_g": 1.0315,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "09:39:56.965",
+          "g1_x_adc": 2325,
+          "g1_y_adc": 1913,
+          "g1_z_adc": 2384,
+          "g2_y_adc": 4095,
+          "ax_g": 0.7441,
+          "ay_g": -0.3626,
+          "az_g": 0.9026,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "09:39:57.165",
+          "g1_x_adc": 2547,
+          "g1_y_adc": 2191,
+          "g1_z_adc": 2517,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3404,
+          "ay_g": 0.3841,
+          "az_g": 1.2598,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "09:39:57.351",
+          "g1_x_adc": 2989,
+          "g1_y_adc": 2575,
+          "g1_z_adc": 2464,
+          "g2_y_adc": 4095,
+          "ax_g": 2.5277,
+          "ay_g": 1.4156,
+          "az_g": 1.1175,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "09:39:57.564",
+          "g1_x_adc": 2626,
+          "g1_y_adc": 1402,
+          "g1_z_adc": 2407,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5526,
+          "ay_g": -1.7353,
+          "az_g": 0.9643,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "09:39:57.747",
+          "g1_x_adc": 2349,
+          "g1_y_adc": 2064,
+          "g1_z_adc": 2338,
+          "g2_y_adc": 4095,
+          "ax_g": 0.8085,
+          "ay_g": 0.043,
+          "az_g": 0.779,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "中",
+          "time": "09:39:57.950",
+          "g1_x_adc": 2384,
+          "g1_y_adc": 2146,
+          "g1_z_adc": 2411,
+          "g2_y_adc": 4095,
+          "ax_g": 0.9026,
+          "ay_g": 0.2632,
+          "az_g": 0.9751,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w30_l15cm_中",
+        "weight_g": 30,
+        "length_cm": 15.0,
+        "speed": "中",
+        "sample_count": 10,
+        "peak_to_peak_y": 6.745,
+        "peak_to_peak_x": 1.9126,
+        "peak_to_peak_z": 0.8246,
+        "rms_y": 1.8586,
+        "std_y": 1.8435,
+        "max_abs_y": 4.9426,
+        "peak_freq_hz": 2.0,
+        "f_tmd_theoretical_hz": 1.29,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 2.4918
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 5.581
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 2.6067
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 10.3476
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 6.1163
+          }
+        ],
+        "baseline_p2p_y": 7.8,
+        "vibration_reduction_pct": 13.53
+      }
+    },
+    "w30_l5cm_快": {
+      "cond_id": "w30_l5cm_快",
+      "weight_g": 30,
+      "length_cm": 5.0,
+      "speed": "快",
+      "points": [
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "09:45:39.548",
+          "g1_x_adc": 2946,
+          "g1_y_adc": 1381,
+          "g1_z_adc": 1845,
+          "g2_y_adc": 4095,
+          "ax_g": 2.4122,
+          "ay_g": -1.7917,
+          "az_g": -0.5453,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "09:45:39.751",
+          "g1_x_adc": 2468,
+          "g1_y_adc": 1749,
+          "g1_z_adc": 2658,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1282,
+          "ay_g": -0.8032,
+          "az_g": 1.6386,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "09:45:39.955",
+          "g1_x_adc": 2743,
+          "g1_y_adc": 1984,
+          "g1_z_adc": 2374,
+          "g2_y_adc": 4095,
+          "ax_g": 1.8669,
+          "ay_g": -0.1719,
+          "az_g": 0.8757,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "09:45:40.172",
+          "g1_x_adc": 2491,
+          "g1_y_adc": 2421,
+          "g1_z_adc": 2607,
+          "g2_y_adc": 4095,
+          "ax_g": 1.19,
+          "ay_g": 1.002,
+          "az_g": 1.5016,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "09:45:40.355",
+          "g1_x_adc": 2209,
+          "g1_y_adc": 863,
+          "g1_z_adc": 1904,
+          "g2_y_adc": 4095,
+          "ax_g": 0.4325,
+          "ay_g": -3.1832,
+          "az_g": -0.3868,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "09:45:40.572",
+          "g1_x_adc": 2493,
+          "g1_y_adc": 2300,
+          "g1_z_adc": 2037,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1954,
+          "ay_g": 0.6769,
+          "az_g": -0.0295,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "09:45:40.762",
+          "g1_x_adc": 2337,
+          "g1_y_adc": 1431,
+          "g1_z_adc": 2429,
+          "g2_y_adc": 4095,
+          "ax_g": 0.7763,
+          "ay_g": -1.6574,
+          "az_g": 1.0234,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "09:45:40.965",
+          "g1_x_adc": 2846,
+          "g1_y_adc": 2522,
+          "g1_z_adc": 2125,
+          "g2_y_adc": 4095,
+          "ax_g": 2.1436,
+          "ay_g": 1.2733,
+          "az_g": 0.2068,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "09:45:41.163",
+          "g1_x_adc": 2621,
+          "g1_y_adc": 2261,
+          "g1_z_adc": 2304,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5392,
+          "ay_g": 0.5722,
+          "az_g": 0.6877,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 5.0,
+          "speed": "快",
+          "time": "09:45:41.355",
+          "g1_x_adc": 2193,
+          "g1_y_adc": 2241,
+          "g1_z_adc": 2633,
+          "g2_y_adc": 4095,
+          "ax_g": 0.3895,
+          "ay_g": 0.5184,
+          "az_g": 1.5714,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w30_l5cm_快",
+        "weight_g": 30,
+        "length_cm": 5.0,
+        "speed": "快",
+        "sample_count": 10,
+        "peak_to_peak_y": 4.4565,
+        "peak_to_peak_x": 2.0227,
+        "peak_to_peak_z": 2.1839,
+        "rms_y": 1.4298,
+        "std_y": 1.3847,
+        "max_abs_y": 3.1832,
+        "peak_freq_hz": 2.5,
+        "f_tmd_theoretical_hz": 2.23,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 2.7153
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 4.864
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 3.1661
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 3.9004
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 8.8994
+          }
+        ],
+        "baseline_p2p_y": 9.2,
+        "vibration_reduction_pct": 51.56
+      }
+    },
+    "w30_l10cm_快": {
+      "cond_id": "w30_l10cm_快",
+      "weight_g": 30,
+      "length_cm": 10.0,
+      "speed": "快",
+      "points": [
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "09:43:25.765",
+          "g1_x_adc": 2658,
+          "g1_y_adc": 1647,
+          "g1_z_adc": 2331,
+          "g2_y_adc": 4095,
+          "ax_g": 1.6386,
+          "ay_g": -1.0772,
+          "az_g": 0.7602,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "09:43:25.964",
+          "g1_x_adc": 2839,
+          "g1_y_adc": 2014,
+          "g1_z_adc": 2279,
+          "g2_y_adc": 4095,
+          "ax_g": 2.1248,
+          "ay_g": -0.0913,
+          "az_g": 0.6205,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "09:43:26.162",
+          "g1_x_adc": 2589,
+          "g1_y_adc": 1670,
+          "g1_z_adc": 2470,
+          "g2_y_adc": 4095,
+          "ax_g": 1.4532,
+          "ay_g": -1.0154,
+          "az_g": 1.1336,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "09:43:26.358",
+          "g1_x_adc": 2303,
+          "g1_y_adc": 1393,
+          "g1_z_adc": 2317,
+          "g2_y_adc": 4095,
+          "ax_g": 0.685,
+          "ay_g": -1.7595,
+          "az_g": 0.7226,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "09:43:26.560",
+          "g1_x_adc": 2512,
+          "g1_y_adc": 2218,
+          "g1_z_adc": 2426,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2464,
+          "ay_g": 0.4567,
+          "az_g": 1.0154,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "09:43:26.751",
+          "g1_x_adc": 2948,
+          "g1_y_adc": 2608,
+          "g1_z_adc": 2370,
+          "g2_y_adc": 4095,
+          "ax_g": 2.4176,
+          "ay_g": 1.5043,
+          "az_g": 0.865,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "09:43:26.971",
+          "g1_x_adc": 2277,
+          "g1_y_adc": 326,
+          "g1_z_adc": 2306,
+          "g2_y_adc": 4095,
+          "ax_g": 0.6151,
+          "ay_g": -4.6256,
+          "az_g": 0.693,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "09:43:27.162",
+          "g1_x_adc": 2443,
+          "g1_y_adc": 2528,
+          "g1_z_adc": 2267,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0611,
+          "ay_g": 1.2894,
+          "az_g": 0.5883,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "09:43:27.351",
+          "g1_x_adc": 2367,
+          "g1_y_adc": 2352,
+          "g1_z_adc": 2503,
+          "g2_y_adc": 4095,
+          "ax_g": 0.8569,
+          "ay_g": 0.8166,
+          "az_g": 1.2222,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 10.0,
+          "speed": "快",
+          "time": "09:43:27.564",
+          "g1_x_adc": 2512,
+          "g1_y_adc": 1731,
+          "g1_z_adc": 2503,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2464,
+          "ay_g": -0.8515,
+          "az_g": 1.2222,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w30_l10cm_快",
+        "weight_g": 30,
+        "length_cm": 10.0,
+        "speed": "快",
+        "sample_count": 10,
+        "peak_to_peak_y": 6.1299,
+        "peak_to_peak_x": 1.8025,
+        "peak_to_peak_z": 0.6339,
+        "rms_y": 1.7949,
+        "std_y": 1.7132,
+        "max_abs_y": 4.6256,
+        "peak_freq_hz": 1.5,
+        "f_tmd_theoretical_hz": 1.58,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 1.2131
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 3.4499
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 9.2419
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 5.7138
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 5.5363
+          }
+        ],
+        "baseline_p2p_y": 9.2,
+        "vibration_reduction_pct": 33.37
+      }
+    },
+    "w30_l15cm_快": {
+      "cond_id": "w30_l15cm_快",
+      "weight_g": 30,
+      "length_cm": 15.0,
+      "speed": "快",
+      "points": [
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "09:40:51.184",
+          "g1_x_adc": 2477,
+          "g1_y_adc": 2064,
+          "g1_z_adc": 2384,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1524,
+          "ay_g": 0.043,
+          "az_g": 0.9026,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "09:40:51.389",
+          "g1_x_adc": 2544,
+          "g1_y_adc": 1903,
+          "g1_z_adc": 2512,
+          "g2_y_adc": 4095,
+          "ax_g": 1.3324,
+          "ay_g": -0.3895,
+          "az_g": 1.2464,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "09:40:51.581",
+          "g1_x_adc": 3098,
+          "g1_y_adc": 3022,
+          "g1_z_adc": 1753,
+          "g2_y_adc": 4095,
+          "ax_g": 2.8205,
+          "ay_g": 2.6164,
+          "az_g": -0.7924,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "09:40:51.855",
+          "g1_x_adc": 2611,
+          "g1_y_adc": 2089,
+          "g1_z_adc": 2475,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5123,
+          "ay_g": 0.1101,
+          "az_g": 1.147,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "09:40:51.952",
+          "g1_x_adc": 2363,
+          "g1_y_adc": 1585,
+          "g1_z_adc": 2298,
+          "g2_y_adc": 4095,
+          "ax_g": 0.8462,
+          "ay_g": -1.2437,
+          "az_g": 0.6716,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "09:40:52.158",
+          "g1_x_adc": 2620,
+          "g1_y_adc": 2355,
+          "g1_z_adc": 2304,
+          "g2_y_adc": 4095,
+          "ax_g": 1.5365,
+          "ay_g": 0.8247,
+          "az_g": 0.6877,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "09:40:52.426",
+          "g1_x_adc": 2785,
+          "g1_y_adc": 2532,
+          "g1_z_adc": 2649,
+          "g2_y_adc": 4095,
+          "ax_g": 1.9797,
+          "ay_g": 1.3001,
+          "az_g": 1.6144,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "09:40:52.578",
+          "g1_x_adc": 2446,
+          "g1_y_adc": 144,
+          "g1_z_adc": 2118,
+          "g2_y_adc": 4095,
+          "ax_g": 1.0691,
+          "ay_g": -5.1145,
+          "az_g": 0.188,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "09:40:52.779",
+          "g1_x_adc": 2489,
+          "g1_y_adc": 2375,
+          "g1_z_adc": 2453,
+          "g2_y_adc": 4095,
+          "ax_g": 1.1846,
+          "ay_g": 0.8784,
+          "az_g": 1.0879,
+          "g2_ay_g": 5.4987
+        },
+        {
+          "weight_g": 30,
+          "length_cm": 15.0,
+          "speed": "快",
+          "time": "09:40:53.049",
+          "g1_x_adc": 2505,
+          "g1_y_adc": 1681,
+          "g1_z_adc": 1934,
+          "g2_y_adc": 4095,
+          "ax_g": 1.2276,
+          "ay_g": -0.9858,
+          "az_g": -0.3062,
+          "g2_ay_g": 5.4987
+        }
+      ],
+      "summary": {
+        "cond_id": "w30_l15cm_快",
+        "weight_g": 30,
+        "length_cm": 15.0,
+        "speed": "快",
+        "sample_count": 10,
+        "peak_to_peak_y": 7.7309,
+        "peak_to_peak_x": 1.9743,
+        "peak_to_peak_z": 2.4068,
+        "rms_y": 1.9705,
+        "std_y": 1.9608,
+        "max_abs_y": 5.1145,
+        "peak_freq_hz": 1.5,
+        "f_tmd_theoretical_hz": 1.29,
+        "fft_spectrum": [
+          {
+            "freq": 0.0,
+            "amplitude": 0.0
+          },
+          {
+            "freq": 0.5,
+            "amplitude": 5.52
+          },
+          {
+            "freq": 1.0,
+            "amplitude": 1.9249
+          },
+          {
+            "freq": 1.5,
+            "amplitude": 9.3488
+          },
+          {
+            "freq": 2.0,
+            "amplitude": 5.3664
+          },
+          {
+            "freq": 2.5,
+            "amplitude": 9.1492
+          }
+        ],
+        "baseline_p2p_y": 9.2,
+        "vibration_reduction_pct": 15.97
+      }
+    }
+  }
+}

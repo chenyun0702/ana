@@ -1,0 +1,21 @@
+{
+  "title": "臺中市114學年度國民教育階段資賦優異學生獨立研究專題",
+  "authors": "張玲瑀、陳姿妘",
+  "topic": "基於 LinkIt 7697 與 GY-61 加速度感測器之高樓抗震與調諧質量阻尼器 (TMD) 實驗分析",
+  "apparatus": {
+    "microcontroller": "MediaTek LinkIt 7697 / ESP32 Node32s",
+    "sensor": "GY-61 (Analog Devices ADXL335 三軸重力加速度計)",
+    "damper_type": "調諧質量阻尼器 (Tuned Mass Damper, TMD / 減震球)",
+    "variables": {
+      "damper_mass": "10g, 20g, 30g",
+      "pendulum_length": "5cm, 10cm, 15cm",
+      "vibration_speeds": "慢速, 中速, 快速 (馬達 PWM 調速)"
+    },
+    "communication": "Bluetooth Terminal (BLE / Serial Bluetooth)"
+  },
+  "conclusions": [
+    "擺長長度效應：擺繩長度較長 (15cm) 時阻尼器與高樓搖晃週期的匹配調諧效果最佳，能有效對抗地震共震。",
+    "擺重質量效應：擺重適中即可達到顯著減震；過重會拉扯樓體產生二次諧振，過輕則抗震能量消散不足。",
+    "搖晃速度與震幅：在中高速晃動環境下，調諧阻尼器發揮最大反向作用力，頂樓搖晃幅度最大降低達 80% 以上。"
+  ]
+}
